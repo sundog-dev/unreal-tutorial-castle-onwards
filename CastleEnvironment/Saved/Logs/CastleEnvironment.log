@@ -3057,3 +3057,57 @@ Recommended: 516.25
 [2022.09.28-01.57.12:789][ 71]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 93B634EF185F457D8F8F219DC3FD4C3E0C1E2508), compiling. 
 [2022.09.28-01.57.12:873][ 72]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B53E530A284B0D44208911440BCC61CEB492A0EB), compiling. 
 [2022.09.28-01.57.14:734][131]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 07A4EC8AC65B69B13B2AC9DC6A29D1AFC7EB196F), compiling. 
+[2022.09.28-02.03.40:673][358]LogViewport: Scene viewport resized to 2069x1164, mode Windowed.
+[2022.09.28-02.04.42:944][659]LogViewport: Scene viewport resized to 3114x1804, mode Windowed.
+[2022.09.28-02.04.48:385][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.09.28-02.04.48:791][778]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CastleAssets/Maps/Overview.Overview
+[2022.09.28-02.04.48:791][778]Cmd: MAP LOAD FILE="../../../../../../Users/WUStudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/CastleAssets/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.28-02.04.48:791][778]LightingResults: New page: Lighting Build
+[2022.09.28-02.04.48:791][778]LoadErrors: New page: Loading map: Overview.umap
+[2022.09.28-02.04.48:794][778]LogWorld: UWorld::CleanupWorld for CastleEnvironment, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-02.04.48:794][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-02.04.48:794][778]MapCheck: New page: Map Check
+[2022.09.28-02.04.48:794][778]LightingResults: New page: Lighting Build
+[2022.09.28-02.04.48:802][778]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-02.04.48:806][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: ================================================
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Total job queries 36, among them cache hits 0 (0.00%)
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Tracking 36 distinct input hashes that result in 20 distinct outputs (55.56%)
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Shaders Compiled: 18
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Jobs assigned 36, completed 36 (100.00%)
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Average time worker was idle: 91.68 s
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.34 s
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 1.99 s
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Job life time (pending + execution): average 1.18 s, max 2.10
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.31 s
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Average processing rate: 4.33 jobs/sec
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Effective parallelization: 2.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    9 times, average 0.81 sec, max 0.85 sec, min 0.79 sec)
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    9 times, average 0.77 sec, max 0.82 sec, min 0.72 sec)
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.73 sec, max 0.83 sec, min 0.67 sec)
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    9 times, average 0.31 sec, max 0.35 sec, min 0.26 sec)
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.99% of total time (compiled    9 times, average 0.81 sec, max 0.85 sec, min 0.79 sec)
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display:                                                 FLumenCardVS - 29.44% of total time (compiled    9 times, average 0.77 sec, max 0.82 sec, min 0.72 sec)
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.78% of total time (compiled    9 times, average 0.73 sec, max 0.83 sec, min 0.67 sec)
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.79% of total time (compiled    9 times, average 0.31 sec, max 0.35 sec, min 0.26 sec)
+[2022.09.28-02.04.48:808][778]LogShaderCompilers: Display: ================================================
+[2022.09.28-02.04.48:865][778]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-02.04.48:866][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-02.04.48:905][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.28-02.04.48:920][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.09.28-02.04.48:953][778]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2022.09.28-02.04.48:953][778]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.28-02.04.48:953][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.28-02.04.48:954][778]LogAIModule: Creating AISystem for world Overview
+[2022.09.28-02.04.49:141][778]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.28-02.04.49:162][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.09.28-02.04.49:237][778]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.28-02.04.49:239][778]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.362ms to complete.
+[2022.09.28-02.04.49:239][778]LogFileHelpers: Loading map 'Overview' took 0.447
+[2022.09.28-02.04.53:758][902]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
