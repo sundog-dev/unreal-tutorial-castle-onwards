@@ -1,1 +1,5 @@
 2022/09/28-22:10:09.023 938 Reusing MANIFEST C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/28-22:37:12.465 497c Level-0 table #5: started
+2022/09/28-22:37:12.508 497c Level-0 table #5: 7292 bytes OK
+2022/09/28-22:37:12.511 497c Delete type=0 #3
+2022/09/28-22:37:12.511 497c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
