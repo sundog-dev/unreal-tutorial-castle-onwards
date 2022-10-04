@@ -3198,3 +3198,1503 @@ Recommended: 516.25
 [2022.10.04-19.59.18:869][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2022.10.04-19.59.28:918][367]LogSlate: Window 'Delete Assets' being destroyed
 [2022.10.04-20.02.32:443][841]LogDerivedDataCache: C:/Users/wustudent/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.402 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.04-20.03.56:514][235]LogStaticMesh: Warning: SM_BlackAlder_Field_04 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.10.04-20.03.56:515][235]LogStaticMesh: Warning: SM_BlackAlder_Field_04 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:515][235]LogStaticMesh: Warning: SM_BlackAlder_Field_04 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:516][235]LogStaticMesh: Warning: SM_BlackAlder_Field_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.10.04-20.03.56:516][235]LogStaticMesh: Warning: SM_BlackAlder_Field_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Field_05 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Field_05 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Forest_06 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Forest_06 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Forest_07 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Forest_08 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Forest_02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Forest_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Sapling_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Sapling_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Forest_03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Sapling_04 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Warning: SM_BlackAlder_Sapling_04 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:562][235]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_04) ...
+[2022.10.04-20.03.56:576][236]LogStaticMesh: Warning: SM_BlackAlder_Forest_04 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.10.04-20.03.56:576][236]LogStaticMesh: Warning: SM_BlackAlder_Forest_04 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:601][237]LogStaticMesh: Warning: SM_BlackAlder_Forest_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:601][237]LogStaticMesh: Warning: SM_BlackAlder_Field_03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.10.04-20.03.56:601][237]LogStaticMesh: Warning: SM_BlackAlder_Field_03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:601][237]LogStaticMesh: Warning: SM_BlackAlder_Forest_05 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.03.56:654][238]LogStaticMesh: Warning: SM_BlackAlder_Field_02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.10.04-20.03.56:654][238]LogStaticMesh: Warning: SM_BlackAlder_Field_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.04-20.04.32:533][410]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.04-20.04.32:534][410]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.04-20.04.34:040][562]LogStaticMesh: Display: Building static mesh spruce_full_01...
+[2022.10.04-20.04.34:042][562]LogStaticMesh: Display: Building static mesh spruce_full_02...
+[2022.10.04-20.04.34:045][562]LogStaticMesh: Display: Building static mesh spruce_full_03...
+[2022.10.04-20.04.34:049][562]LogStaticMesh: Display: Building static mesh spruce_half_01...
+[2022.10.04-20.04.34:054][562]LogStaticMesh: Display: Building static mesh spruce_half_02...
+[2022.10.04-20.04.34:058][562]LogStaticMesh: Display: Building static mesh spruce_half_03...
+[2022.10.04-20.04.34:058][562]LogStaticMesh: Display: Building static mesh spruce_half_04...
+[2022.10.04-20.04.34:214][568]LogStaticMesh: Adjacency [0.00s], tris: 18131, UVs 3
+[2022.10.04-20.04.34:247][569]LogStaticMesh: Clustering [0.04s]. Ratio: 1.014084
+[2022.10.04-20.04.34:260][570]LogStaticMesh: Leaves [0.00s]
+[2022.10.04-20.04.34:260][570]LogStaticMesh: Num clusters 144. Error 0.0000, 0.0000, 0.0000
+[2022.10.04-20.04.34:352][575]LogStaticMesh: Num clusters 74. Error 3.5604, 6.0054, 7.8175
+[2022.10.04-20.04.34:425][580]LogStaticMesh: Num clusters 38. Error 8.5971, 13.5321, 16.2735
+[2022.10.04-20.04.34:458][582]LogStaticMesh: Num clusters 20. Error 22.8751, 24.0761, 25.2772
+[2022.10.04-20.04.34:479][583]LogStaticMesh: Num clusters 10. Error 26.9505, 26.9505, 26.9505
+[2022.10.04-20.04.34:490][584]LogStaticMesh: Num clusters 5. Error 40.2586, 40.2586, 40.2586
+[2022.10.04-20.04.34:491][584]LogStaticMesh: Num clusters 3. Error 51.2532, 51.2532, 51.2532
+[2022.10.04-20.04.34:491][584]LogStaticMesh: Num clusters 2. Error 51.2532, 51.2532, 51.2532
+[2022.10.04-20.04.34:493][584]LogStaticMesh: Num clusters 1. Error 54.1432, 54.1432, 54.1432
+[2022.10.04-20.04.34:493][584]LogStaticMesh: Reduce [0.24s]
+[2022.10.04-20.04.34:663][595]LogStaticMesh: Fallback 0/4 [0.17s], num tris: 7298
+[2022.10.04-20.04.34:804][604]LogStaticMesh: Fallback 1/4 [0.14s], num tris: 3649
+[2022.10.04-20.04.34:888][609]LogStaticMesh: Adjacency [0.01s], tris: 36335, UVs 3
+[2022.10.04-20.04.34:916][611]LogStaticMesh: Adjacency [0.00s], tris: 40395, UVs 3
+[2022.10.04-20.04.34:947][613]LogStaticMesh: Fallback 2/4 [0.15s], num tris: 2189
+[2022.10.04-20.04.34:975][615]LogStaticMesh: Clustering [0.09s]. Ratio: 1.035211
+[2022.10.04-20.04.34:977][615]LogStaticMesh: Leaves [0.00s]
+[2022.10.04-20.04.34:977][615]LogStaticMesh: Num clusters 294. Error 0.0000, 0.0000, 0.0000
+[2022.10.04-20.04.35:058][620]LogStaticMesh: Clustering [0.15s]. Ratio: 1.022152
+[2022.10.04-20.04.35:071][621]LogStaticMesh: Fallback 3/4 [0.12s], num tris: 1459
+[2022.10.04-20.04.35:071][621]LogStaticMesh: Leaves [0.01s]
+[2022.10.04-20.04.35:071][621]LogStaticMesh: Num clusters 323. Error 0.0000, 0.0000, 0.0000
+[2022.10.04-20.04.35:071][621]LogStaticMesh: Adjacency [0.05s], tris: 51740, UVs 3
+[2022.10.04-20.04.35:084][622]LogStaticMesh: ConstrainClusters:
+[2022.10.04-20.04.35:084][622]LogStaticMesh:   Input: 297 Clusters, 37362 Triangles and 41977 Vertices
+[2022.10.04-20.04.35:084][622]LogStaticMesh:   Output without splits: 297 Clusters, 37362 Triangles and 42018 Vertices
+[2022.10.04-20.04.35:084][622]LogStaticMesh:   Output with splits: 309 Clusters, 37362 Triangles and 42037 Vertices
+[2022.10.04-20.04.35:084][622]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 309, Slow Path Clusters: 0, 1 Material: 100, 2 Materials: 166, 3 Materials: 43, At Least 4 Materials: 0
+[2022.10.04-20.04.35:117][624]LogStaticMesh: WritePages:
+[2022.10.04-20.04.35:117][624]LogStaticMesh:   Root: GPU size: 30412 bytes. 1 Pages. 30412.000 bytes per page (92.810% utilization).
+[2022.10.04-20.04.35:117][624]LogStaticMesh:   Streaming: GPU size: 797804 bytes. 7 Pages. 113972.000 bytes per page (86.954% utilization).
+[2022.10.04-20.04.35:117][624]LogStaticMesh:   Page data disk size: 744628 bytes. Fixup data size: 2448 bytes.
+[2022.10.04-20.04.35:117][624]LogStaticMesh:   Total GPU size: 828216 bytes, Total disk size: 747076 bytes.
+[2022.10.04-20.04.35:117][624]LogStaticMesh: Encode [0.05s]
+[2022.10.04-20.04.35:117][624]LogStaticMesh: Imposter [0.00s]
+[2022.10.04-20.04.35:117][624]LogStaticMesh: Nanite build [0.86s]
+
+[2022.10.04-20.04.35:153][626]LogStaticMesh: Num clusters 148. Error 0.9243, 4.1278, 8.5173
+[2022.10.04-20.04.35:174][627]LogStaticMesh: Adjacency [0.06s], tris: 65972, UVs 3
+[2022.10.04-20.04.35:232][631]LogStaticMesh: Clustering [0.16s]. Ratio: 1.022222
+[2022.10.04-20.04.35:232][631]LogStaticMesh: Leaves [0.00s]
+[2022.10.04-20.04.35:232][631]LogStaticMesh: Num clusters 414. Error 0.0000, 0.0000, 0.0000
+[2022.10.04-20.04.35:290][635]LogStaticMesh: Built static mesh [1.24s] /Game/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_01.spruce_full_01
+[2022.10.04-20.04.35:328][637]LogStaticMesh: Num clusters 164. Error 1.7710, 4.3768, 9.2078
+[2022.10.04-20.04.35:347][638]LogStaticMesh: Num clusters 77. Error 5.3678, 8.2340, 9.9018
+[2022.10.04-20.04.35:430][643]LogStaticMesh: Clustering [0.26s]. Ratio: 1.021318
+[2022.10.04-20.04.35:451][644]LogStaticMesh: Leaves [0.02s]
+[2022.10.04-20.04.35:451][644]LogStaticMesh: Num clusters 527. Error 0.0000, 0.0000, 0.0000
+[2022.10.04-20.04.35:478][646]LogStaticMesh: Num clusters 210. Error 0.0565, 1.5232, 4.4890
+[2022.10.04-20.04.35:493][647]LogStaticMesh: Adjacency [0.10s], tris: 80613, UVs 3
+[2022.10.04-20.04.35:522][649]LogStaticMesh: Num clusters 84. Error 5.2883, 8.8046, 10.4031
+[2022.10.04-20.04.35:522][649]LogStaticMesh: Adjacency [0.07s], tris: 71277, UVs 3
+[2022.10.04-20.04.35:568][652]LogStaticMesh: Num clusters 39. Error 9.4646, 12.0909, 15.9274
+[2022.10.04-20.04.35:659][658]LogStaticMesh: Num clusters 20. Error 16.6249, 19.0247, 21.4245
+[2022.10.04-20.04.35:696][660]LogStaticMesh: Num clusters 10. Error 22.1897, 22.1897, 22.1897
+[2022.10.04-20.04.35:714][661]LogStaticMesh: Num clusters 5. Error 32.1716, 32.1716, 32.1716
+[2022.10.04-20.04.35:714][661]LogStaticMesh: Num clusters 3. Error 41.3587, 41.3587, 41.3587
+[2022.10.04-20.04.35:716][661]LogStaticMesh: Num clusters 43. Error 10.8060, 13.6341, 16.4951
+[2022.10.04-20.04.35:716][661]LogStaticMesh: Num clusters 2. Error 48.5508, 48.5508, 48.5508
+[2022.10.04-20.04.35:719][661]LogStaticMesh: Num clusters 1. Error 59.2239, 59.2239, 59.2239
+[2022.10.04-20.04.35:719][661]LogStaticMesh: Reduce [0.74s]
+[2022.10.04-20.04.35:750][663]LogStaticMesh: Clustering [0.25s]. Ratio: 1.022222
+[2022.10.04-20.04.35:764][664]LogStaticMesh: Leaves [0.02s]
+[2022.10.04-20.04.35:764][664]LogStaticMesh: Num clusters 644. Error 0.0000, 0.0000, 0.0000
+[2022.10.04-20.04.35:785][665]LogStaticMesh: Clustering [0.26s]. Ratio: 1.021544
+[2022.10.04-20.04.35:811][667]LogStaticMesh: Leaves [0.02s]
+[2022.10.04-20.04.35:811][667]LogStaticMesh: Num clusters 569. Error 0.0000, 0.0000, 0.0000
+[2022.10.04-20.04.35:813][667]LogStaticMesh: Num clusters 22. Error 21.4371, 22.3154, 23.3694
+[2022.10.04-20.04.35:888][672]LogStaticMesh: Num clusters 11. Error 25.5875, 25.5875, 25.5875
+[2022.10.04-20.04.35:904][673]LogStaticMesh: Num clusters 6. Error 34.5086, 34.5086, 34.5086
+[2022.10.04-20.04.35:916][674]LogStaticMesh: Num clusters 3. Error 48.0156, 48.0156, 48.0156
+[2022.10.04-20.04.35:916][674]LogStaticMesh: Num clusters 2. Error 48.0156, 48.0156, 48.0156
+[2022.10.04-20.04.35:918][674]LogStaticMesh: Num clusters 1. Error 48.0156, 48.0156, 48.0156
+[2022.10.04-20.04.35:918][674]LogStaticMesh: Reduce [0.85s]
+[2022.10.04-20.04.35:946][676]LogStaticMesh: Fallback 0/4 [0.22s], num tris: 5735
+[2022.10.04-20.04.36:136][688]LogStaticMesh: Fallback 1/4 [0.20s], num tris: 2867
+[2022.10.04-20.04.36:181][691]LogStaticMesh: Fallback 0/4 [0.26s], num tris: 7513
+[2022.10.04-20.04.36:277][697]LogStaticMesh: Fallback 2/4 [0.13s], num tris: 1433
+[2022.10.04-20.04.36:336][701]LogStaticMesh: Num clusters 107. Error 0.4405, 3.5696, 7.2049
+[2022.10.04-20.04.36:398][705]LogStaticMesh: Fallback 1/4 [0.22s], num tris: 3756
+[2022.10.04-20.04.36:411][706]LogStaticMesh: Fallback 3/4 [0.13s], num tris: 716
+[2022.10.04-20.04.36:540][714]LogStaticMesh: Fallback 2/4 [0.14s], num tris: 1502
+[2022.10.04-20.04.36:540][714]LogStaticMesh: ConstrainClusters:
+[2022.10.04-20.04.36:540][714]LogStaticMesh:   Input: 599 Clusters, 74652 Triangles and 86508 Vertices
+[2022.10.04-20.04.36:540][714]LogStaticMesh:   Output without splits: 599 Clusters, 74652 Triangles and 86762 Vertices
+[2022.10.04-20.04.36:540][714]LogStaticMesh:   Output with splits: 630 Clusters, 74652 Triangles and 86775 Vertices
+[2022.10.04-20.04.36:542][714]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 630, Slow Path Clusters: 0, 1 Material: 199, 2 Materials: 365, 3 Materials: 66, At Least 4 Materials: 0
+[2022.10.04-20.04.36:621][719]LogStaticMesh: WritePages:
+[2022.10.04-20.04.36:621][719]LogStaticMesh:   Root: GPU size: 31188 bytes. 1 Pages. 31188.000 bytes per page (95.178% utilization).
+[2022.10.04-20.04.36:621][719]LogStaticMesh:   Streaming: GPU size: 1545888 bytes. 12 Pages. 128824.000 bytes per page (98.285% utilization).
+[2022.10.04-20.04.36:621][719]LogStaticMesh:   Page data disk size: 1226660 bytes. Fixup data size: 4824 bytes.
+[2022.10.04-20.04.36:621][719]LogStaticMesh:   Total GPU size: 1577076 bytes, Total disk size: 1231484 bytes.
+[2022.10.04-20.04.36:621][719]LogStaticMesh: Encode [0.22s]
+[2022.10.04-20.04.36:634][720]LogStaticMesh: Imposter [0.00s]
+[2022.10.04-20.04.36:634][720]LogStaticMesh: Nanite build [1.65s]
+
+[2022.10.04-20.04.36:648][721]LogStaticMesh: Fallback 3/4 [0.11s], num tris: 939
+[2022.10.04-20.04.36:785][730]LogStaticMesh: Built static mesh [2.74s] /Game/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_03.spruce_full_03
+[2022.10.04-20.04.36:801][731]LogStaticMesh: ConstrainClusters:
+[2022.10.04-20.04.36:802][731]LogStaticMesh:   Input: 659 Clusters, 82641 Triangles and 96320 Vertices
+[2022.10.04-20.04.36:802][731]LogStaticMesh:   Output without splits: 659 Clusters, 82641 Triangles and 96536 Vertices
+[2022.10.04-20.04.36:802][731]LogStaticMesh:   Output with splits: 689 Clusters, 82641 Triangles and 96546 Vertices
+[2022.10.04-20.04.36:802][731]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 689, Slow Path Clusters: 0, 1 Material: 214, 2 Materials: 405, 3 Materials: 70, At Least 4 Materials: 0
+[2022.10.04-20.04.36:838][733]LogStaticMesh: Num clusters 56. Error 4.9863, 7.2819, 9.5292
+[2022.10.04-20.04.36:890][736]LogStaticMesh: WritePages:
+[2022.10.04-20.04.36:890][736]LogStaticMesh:   Root: GPU size: 31940 bytes. 1 Pages. 31940.000 bytes per page (97.473% utilization).
+[2022.10.04-20.04.36:890][736]LogStaticMesh:   Streaming: GPU size: 1742392 bytes. 14 Pages. 124456.570 bytes per page (94.953% utilization).
+[2022.10.04-20.04.36:890][736]LogStaticMesh:   Page data disk size: 1362860 bytes. Fixup data size: 5360 bytes.
+[2022.10.04-20.04.36:890][736]LogStaticMesh:   Total GPU size: 1774332 bytes, Total disk size: 1368220 bytes.
+[2022.10.04-20.04.36:890][736]LogStaticMesh: Encode [0.25s]
+[2022.10.04-20.04.36:893][736]LogStaticMesh: Imposter [0.00s]
+[2022.10.04-20.04.36:893][736]LogStaticMesh: Nanite build [1.83s]
+
+[2022.10.04-20.04.36:998][742]LogStaticMesh: Num clusters 29. Error 7.5550, 9.3989, 11.3874
+[2022.10.04-20.04.37:091][747]LogStaticMesh: Built static mesh [3.05s] /Game/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_02.spruce_full_02
+[2022.10.04-20.04.37:213][749]LogStaticMesh: Num clusters 15. Error 14.0314, 14.0314, 14.0314
+[2022.10.04-20.04.37:213][749]LogStaticMesh: Num clusters 8. Error 20.5879, 20.5879, 20.5879
+[2022.10.04-20.04.37:263][750]LogStaticMesh: Num clusters 4. Error 20.9258, 20.9258, 20.9258
+[2022.10.04-20.04.37:263][750]LogStaticMesh: Num clusters 2. Error 27.9654, 27.9654, 27.9654
+[2022.10.04-20.04.37:263][750]LogStaticMesh: Num clusters 1. Error 34.6925, 34.6925, 34.6925
+[2022.10.04-20.04.37:263][750]LogStaticMesh: Reduce [2.00s]
+[2022.10.04-20.04.37:364][751]LogStaticMesh: Num clusters 326. Error 0.1193, 0.8615, 4.4735
+[2022.10.04-20.04.37:501][753]LogStaticMesh: Fallback 0/4 [0.27s], num tris: 5070
+[2022.10.04-20.04.37:615][755]LogStaticMesh: Num clusters 267. Error 0.2515, 1.6741, 4.6288
+[2022.10.04-20.04.37:659][759]LogStaticMesh: Fallback 1/4 [0.16s], num tris: 2535
+[2022.10.04-20.04.37:708][762]LogMeshUtilities: Finished distance field build in 2.3s - 98x105x126 sparse distance field, 1.3Mb total, 0.0Mb always loaded, 56% occupied, 6043 triangles, spruce_full_01
+[2022.10.04-20.04.37:796][766]LogStaticMesh: Fallback 2/4 [0.14s], num tris: 1267
+[2022.10.04-20.04.37:866][770]LogStaticMesh: Num clusters 167. Error 0.9536, 2.4493, 7.9789
+[2022.10.04-20.04.37:883][771]LogStaticMesh: Num clusters 290. Error 0.2590, 1.8038, 4.4887
+[2022.10.04-20.04.37:943][774]LogStaticMesh: Fallback 3/4 [0.15s], num tris: 633
+[2022.10.04-20.04.38:129][784]LogStaticMesh: ConstrainClusters:
+[2022.10.04-20.04.38:129][784]LogStaticMesh:   Input: 846 Clusters, 106087 Triangles and 112898 Vertices
+[2022.10.04-20.04.38:129][784]LogStaticMesh:   Output without splits: 846 Clusters, 106087 Triangles and 113515 Vertices
+[2022.10.04-20.04.38:129][784]LogStaticMesh:   Output with splits: 876 Clusters, 106087 Triangles and 113532 Vertices
+[2022.10.04-20.04.38:131][784]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 876, Slow Path Clusters: 0, 1 Material: 452, 2 Materials: 382, 3 Materials: 42, At Least 4 Materials: 0
+[2022.10.04-20.04.38:240][790]LogStaticMesh: WritePages:
+[2022.10.04-20.04.38:240][790]LogStaticMesh:   Root: GPU size: 32392 bytes. 1 Pages. 32392.000 bytes per page (98.853% utilization).
+[2022.10.04-20.04.38:240][790]LogStaticMesh:   Streaming: GPU size: 1951624 bytes. 16 Pages. 121976.500 bytes per page (93.061% utilization).
+[2022.10.04-20.04.38:240][790]LogStaticMesh:   Page data disk size: 1510164 bytes. Fixup data size: 6576 bytes.
+[2022.10.04-20.04.38:240][790]LogStaticMesh:   Total GPU size: 1984016 bytes, Total disk size: 1516740 bytes.
+[2022.10.04-20.04.38:240][790]LogStaticMesh: Encode [0.29s]
+[2022.10.04-20.04.38:240][790]LogStaticMesh: Imposter [0.00s]
+[2022.10.04-20.04.38:240][790]LogStaticMesh: Nanite build [3.01s]
+
+[2022.10.04-20.04.38:376][797]LogStaticMesh: Built static mesh [4.33s] /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_01.spruce_half_01
+[2022.10.04-20.04.38:596][808]LogStaticMesh: Num clusters 85. Error 2.7010, 5.2083, 9.2854
+[2022.10.04-20.04.38:709][814]LogStaticMesh: Num clusters 138. Error 1.0546, 4.0730, 8.5095
+[2022.10.04-20.04.38:897][824]LogStaticMesh: Num clusters 43. Error 5.6440, 8.4482, 11.0697
+[2022.10.04-20.04.39:028][831]LogStaticMesh: Num clusters 22. Error 9.5797, 11.6861, 13.7925
+[2022.10.04-20.04.39:096][835]LogStaticMesh: Num clusters 11. Error 16.6377, 16.6377, 16.6377
+[2022.10.04-20.04.39:114][836]LogStaticMesh: Num clusters 6. Error 24.4380, 24.4380, 24.4380
+[2022.10.04-20.04.39:121][836]LogStaticMesh: Num clusters 3. Error 25.4250, 25.4250, 25.4250
+[2022.10.04-20.04.39:133][837]LogStaticMesh: Num clusters 2. Error 31.0206, 31.0206, 31.0206
+[2022.10.04-20.04.39:133][837]LogStaticMesh: Num clusters 1. Error 40.5162, 40.5162, 40.5162
+[2022.10.04-20.04.39:133][837]LogStaticMesh: Reduce [3.37s]
+[2022.10.04-20.04.39:189][840]LogStaticMesh: Num clusters 149. Error 1.2965, 4.8499, 7.3767
+[2022.10.04-20.04.39:470][855]LogStaticMesh: Num clusters 71. Error 2.9435, 6.8752, 10.6142
+[2022.10.04-20.04.39:486][856]LogStaticMesh: Fallback 0/4 [0.35s], num tris: 5615
+[2022.10.04-20.04.39:762][871]LogStaticMesh: Num clusters 36. Error 6.2206, 10.3829, 14.1897
+[2022.10.04-20.04.39:782][872]LogStaticMesh: Fallback 1/4 [0.30s], num tris: 2807
+[2022.10.04-20.04.39:817][874]LogStaticMesh: Num clusters 78. Error 6.5979, 8.3965, 10.7413
+[2022.10.04-20.04.39:852][876]LogStaticMesh: Num clusters 18. Error 14.1897, 16.9076, 20.3050
+[2022.10.04-20.04.39:889][878]LogStaticMesh: Num clusters 9. Error 25.3873, 25.3873, 25.3873
+[2022.10.04-20.04.39:908][879]LogStaticMesh: Num clusters 5. Error 25.5119, 25.5119, 25.5119
+[2022.10.04-20.04.39:908][879]LogStaticMesh: Num clusters 3. Error 31.0064, 31.0064, 31.0064
+[2022.10.04-20.04.39:912][879]LogStaticMesh: Num clusters 2. Error 37.1383, 37.1383, 37.1383
+[2022.10.04-20.04.39:915][879]LogStaticMesh: Num clusters 1. Error 49.5294, 49.5294, 49.5294
+[2022.10.04-20.04.39:915][879]LogStaticMesh: Reduce [4.47s]
+[2022.10.04-20.04.39:985][883]LogStaticMesh: Fallback 2/4 [0.20s], num tris: 1403
+[2022.10.04-20.04.40:023][885]LogStaticMesh: Num clusters 40. Error 9.9886, 11.4985, 12.9169
+[2022.10.04-20.04.40:116][890]LogStaticMesh: Fallback 3/4 [0.14s], num tris: 701
+[2022.10.04-20.04.40:211][895]LogStaticMesh: Num clusters 20. Error 16.5165, 17.0812, 17.6460
+[2022.10.04-20.04.40:230][896]LogStaticMesh: Fallback 0/4 [0.31s], num tris: 7391
+[2022.10.04-20.04.40:233][896]LogStaticMesh: Num clusters 10. Error 26.3237, 26.3237, 26.3237
+[2022.10.04-20.04.40:246][897]LogStaticMesh: Num clusters 5. Error 26.3237, 26.3237, 26.3237
+[2022.10.04-20.04.40:254][897]LogStaticMesh: Num clusters 3. Error 30.7366, 30.7366, 30.7366
+[2022.10.04-20.04.40:265][898]LogStaticMesh: Num clusters 2. Error 35.6916, 35.6916, 35.6916
+[2022.10.04-20.04.40:265][898]LogStaticMesh: Num clusters 1. Error 47.1529, 47.1529, 47.1529
+[2022.10.04-20.04.40:265][898]LogStaticMesh: Reduce [4.46s]
+[2022.10.04-20.04.40:344][902]LogStaticMesh: ConstrainClusters:
+[2022.10.04-20.04.40:345][902]LogStaticMesh:   Input: 1310 Clusters, 164467 Triangles and 151890 Vertices
+[2022.10.04-20.04.40:345][902]LogStaticMesh:   Output without splits: 1310 Clusters, 164467 Triangles and 153042 Vertices
+[2022.10.04-20.04.40:345][902]LogStaticMesh:   Output with splits: 1338 Clusters, 164467 Triangles and 153062 Vertices
+[2022.10.04-20.04.40:347][902]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 1338, Slow Path Clusters: 0, 1 Material: 824, 2 Materials: 455, 3 Materials: 59, At Least 4 Materials: 0
+[2022.10.04-20.04.40:495][910]LogStaticMesh: WritePages:
+[2022.10.04-20.04.40:495][910]LogStaticMesh:   Root: GPU size: 31668 bytes. 1 Pages. 31668.000 bytes per page (96.643% utilization).
+[2022.10.04-20.04.40:495][910]LogStaticMesh:   Streaming: GPU size: 2629464 bytes. 21 Pages. 125212.570 bytes per page (95.530% utilization).
+[2022.10.04-20.04.40:495][910]LogStaticMesh:   Page data disk size: 2031684 bytes. Fixup data size: 9360 bytes.
+[2022.10.04-20.04.40:495][910]LogStaticMesh:   Total GPU size: 2661132 bytes, Total disk size: 2041044 bytes.
+[2022.10.04-20.04.40:495][910]LogStaticMesh: Encode [0.38s]
+[2022.10.04-20.04.40:495][910]LogStaticMesh: Imposter [0.00s]
+[2022.10.04-20.04.40:495][910]LogStaticMesh: Nanite build [4.73s]
+
+[2022.10.04-20.04.40:514][911]LogStaticMesh: Fallback 1/4 [0.29s], num tris: 3695
+[2022.10.04-20.04.40:636][917]LogStaticMesh: Fallback 0/4 [0.37s], num tris: 8292
+[2022.10.04-20.04.40:668][919]LogStaticMesh: Built static mesh [6.61s] /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_02.spruce_half_02
+[2022.10.04-20.04.40:707][921]LogStaticMesh: Fallback 2/4 [0.19s], num tris: 1847
+[2022.10.04-20.04.40:871][929]LogStaticMesh: Fallback 3/4 [0.16s], num tris: 923
+[2022.10.04-20.04.40:910][931]LogStaticMesh: Fallback 1/4 [0.27s], num tris: 4145
+[2022.10.04-20.04.41:075][940]LogMeshUtilities: Finished distance field build in 3.6s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 12111 triangles, spruce_full_03
+[2022.10.04-20.04.41:095][941]LogStaticMesh: ConstrainClusters:
+[2022.10.04-20.04.41:095][941]LogStaticMesh:   Input: 1077 Clusters, 135119 Triangles and 135865 Vertices
+[2022.10.04-20.04.41:095][941]LogStaticMesh:   Output without splits: 1077 Clusters, 135119 Triangles and 136658 Vertices
+[2022.10.04-20.04.41:095][941]LogStaticMesh:   Output with splits: 1125 Clusters, 135119 Triangles and 136692 Vertices
+[2022.10.04-20.04.41:095][941]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 1125, Slow Path Clusters: 0, 1 Material: 677, 2 Materials: 387, 3 Materials: 61, At Least 4 Materials: 0
+[2022.10.04-20.04.41:194][946]LogStaticMesh: WritePages:
+[2022.10.04-20.04.41:194][946]LogStaticMesh:   Root: GPU size: 30016 bytes. 1 Pages. 30016.000 bytes per page (91.602% utilization).
+[2022.10.04-20.04.41:195][946]LogStaticMesh:   Streaming: GPU size: 2355852 bytes. 19 Pages. 123992.211 bytes per page (94.599% utilization).
+[2022.10.04-20.04.41:195][946]LogStaticMesh:   Page data disk size: 1829184 bytes. Fixup data size: 8472 bytes.
+[2022.10.04-20.04.41:195][946]LogStaticMesh:   Total GPU size: 2385868 bytes, Total disk size: 1837656 bytes.
+[2022.10.04-20.04.41:195][946]LogStaticMesh: Encode [0.33s]
+[2022.10.04-20.04.41:195][946]LogStaticMesh: Imposter [0.00s]
+[2022.10.04-20.04.41:195][946]LogStaticMesh: Nanite build [5.74s]
+
+[2022.10.04-20.04.41:213][947]LogStaticMesh: Fallback 2/4 [0.30s], num tris: 2073
+[2022.10.04-20.04.41:346][954]LogStaticMesh: Fallback 3/4 [0.13s], num tris: 1036
+[2022.10.04-20.04.41:407][957]LogMeshUtilities: Finished distance field build in 3.9s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 13465 triangles, spruce_full_02
+[2022.10.04-20.04.41:423][958]LogStaticMesh: Built static mesh [7.36s] /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_04.spruce_half_04
+[2022.10.04-20.04.41:593][966]LogStaticMesh: ConstrainClusters:
+[2022.10.04-20.04.41:593][966]LogStaticMesh:   Input: 1167 Clusters, 146392 Triangles and 154116 Vertices
+[2022.10.04-20.04.41:593][966]LogStaticMesh:   Output without splits: 1167 Clusters, 146392 Triangles and 154881 Vertices
+[2022.10.04-20.04.41:593][966]LogStaticMesh:   Output with splits: 1205 Clusters, 146392 Triangles and 154906 Vertices
+[2022.10.04-20.04.41:596][966]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 1205, Slow Path Clusters: 0, 1 Material: 456, 2 Materials: 643, 3 Materials: 106, At Least 4 Materials: 0
+[2022.10.04-20.04.41:747][974]LogStaticMesh: WritePages:
+[2022.10.04-20.04.41:747][974]LogStaticMesh:   Root: GPU size: 32104 bytes. 1 Pages. 32104.000 bytes per page (97.974% utilization).
+[2022.10.04-20.04.41:747][974]LogStaticMesh:   Streaming: GPU size: 2700308 bytes. 21 Pages. 128586.094 bytes per page (98.103% utilization).
+[2022.10.04-20.04.41:747][974]LogStaticMesh:   Page data disk size: 2025452 bytes. Fixup data size: 8760 bytes.
+[2022.10.04-20.04.41:747][974]LogStaticMesh:   Total GPU size: 2732412 bytes, Total disk size: 2034212 bytes.
+[2022.10.04-20.04.41:748][974]LogStaticMesh: Encode [0.40s]
+[2022.10.04-20.04.41:748][974]LogStaticMesh: Imposter [0.00s]
+[2022.10.04-20.04.41:748][974]LogStaticMesh: Nanite build [5.94s]
+
+[2022.10.04-20.04.42:018][989]LogStaticMesh: Built static mesh [7.95s] /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_03.spruce_half_03
+[2022.10.04-20.04.42:744][ 28]LogMeshUtilities: Finished distance field build in 1.6s - 84x77x126 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 59% occupied, 17246 triangles, spruce_half_01
+[2022.10.04-20.04.42:829][ 32]LogMeshUtilities: Finished distance field build in 1.6s - 84x84x126 sparse distance field, 1.0Mb total, 0.0Mb always loaded, 66% occupied, 26871 triangles, spruce_half_02
+[2022.10.04-20.04.44:726][135]LogMeshUtilities: Finished distance field build in 2.0s - 84x84x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 73% occupied, 21990 triangles, spruce_half_04
+[2022.10.04-20.04.44:937][146]LogMeshUtilities: Finished distance field build in 2.2s - 91x91x126 sparse distance field, 1.3Mb total, 0.0Mb always loaded, 70% occupied, 23759 triangles, spruce_half_03
+[2022.10.04-20.04.50:561][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.04-20.04.52:046][515]LogSlate: Window 'Save Content' being destroyed
+[2022.10.04-20.04.52:146][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.04-20.04.52:435][515]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.04.52:469][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment47E2555D4EC26C5947A4A0AB63B8A1A3.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.04.52:530][515]LogFileHelpers: No new changes to save!
+[2022.10.04-20.04.52:530][515]LogFileHelpers: Saving map 'CastleEnvironment' took 0.406
+[2022.10.04-20.04.53:925][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_01
+[2022.10.04-20.04.53:954][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Field_0165FC868E40DAB9617472F788D4AC5671.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_01.uasset'
+[2022.10.04-20.04.56:127][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_02
+[2022.10.04-20.04.56:189][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Field_02A168122D45DA049007EA698274E77B35.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_02.uasset'
+[2022.10.04-20.04.57:424][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_03
+[2022.10.04-20.04.57:453][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Field_03979352C742F918DCF52F7099FCB72FA2.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_03.uasset'
+[2022.10.04-20.04.58:181][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_04
+[2022.10.04-20.04.58:203][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Field_04DE7950CC4989BF23B398D9A44D9EE5FB.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_04.uasset'
+[2022.10.04-20.04.58:679][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_05
+[2022.10.04-20.04.58:698][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Field_05E3E8F3834F5E1A8A0A922EB0456ADF08.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_05.uasset'
+[2022.10.04-20.04.59:458][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_01
+[2022.10.04-20.04.59:480][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Forest_018E8175E84C7D609FFD2D28953AA19009.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_01.uasset'
+[2022.10.04-20.05.00:125][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_02
+[2022.10.04-20.05.00:145][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Forest_02F6E0A34241A6C1E2C7895883E2309C31.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_02.uasset'
+[2022.10.04-20.05.00:761][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_03
+[2022.10.04-20.05.00:799][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Forest_037C3830E24428690816E46786DA7F128D.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_03.uasset'
+[2022.10.04-20.05.01:328][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_04
+[2022.10.04-20.05.01:347][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Forest_047D3E12D54795873AE3F6A381ACFD32CC.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_04.uasset'
+[2022.10.04-20.05.01:897][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_05
+[2022.10.04-20.05.01:917][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Forest_05C0B5FFF74531D3391ED40E9EB46C9E9F.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_05.uasset'
+[2022.10.04-20.05.02:078][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_06
+[2022.10.04-20.05.02:098][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Forest_0691C28DD547FF049F046EBBB8980ABFE6.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_06.uasset'
+[2022.10.04-20.05.02:275][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_07
+[2022.10.04-20.05.02:291][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Forest_07754DCB4747EE80A5AE0397A1867223E1.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_07.uasset'
+[2022.10.04-20.05.02:426][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_08
+[2022.10.04-20.05.02:442][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Forest_083F09234249386832F88A2B81C35704AE.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_08.uasset'
+[2022.10.04-20.05.02:602][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_09
+[2022.10.04-20.05.02:619][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Forest_091EA40B214358CE10AA0C8B9C7A0914E4.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_09.uasset'
+[2022.10.04-20.05.02:689][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_01
+[2022.10.04-20.05.02:707][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Sapling_0171513CA34325073A916F2CA14EA590F2.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_01.uasset'
+[2022.10.04-20.05.02:806][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_02
+[2022.10.04-20.05.02:817][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Sapling_02DDC2EB09468880F8CA006F9EFE3BBCC2.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_02.uasset'
+[2022.10.04-20.05.02:939][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_03
+[2022.10.04-20.05.02:955][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Sapling_03B5DB01C54309D5AE4DCDB38D13338645.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_03.uasset'
+[2022.10.04-20.05.03:112][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_04
+[2022.10.04-20.05.03:128][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Sapling_0498A2590442DED4F59FD2A3A179FA4B64.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_04.uasset'
+[2022.10.04-20.05.03:262][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_05
+[2022.10.04-20.05.03:278][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Sapling_05806AD94443624719240B0786666C7859.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_05.uasset'
+[2022.10.04-20.05.03:349][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_06
+[2022.10.04-20.05.03:365][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Sapling_06F9B6C64A45BDC3CEDFD092A2FFE94B18.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_06.uasset'
+[2022.10.04-20.05.03:420][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Seedling_01
+[2022.10.04-20.05.03:434][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Seedling_01D5BCE2874783062D1EA6FE811BF5EA93.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Seedling_01.uasset'
+[2022.10.04-20.05.03:524][515]LogSavePackage: Moving output files for package: /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Seedling_02
+[2022.10.04-20.05.03:536][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/SM_BlackAlder_Seedling_020C03B08D4F570A336D1E908FA5F4E82B.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Seedling_02.uasset'
+[2022.10.04-20.05.03:750][515]LogSavePackage: Moving output files for package: /Game/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_01
+[2022.10.04-20.05.03:764][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/spruce_full_01B2F3564C45036E7E882D82B5EF0360F5.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_01.uasset'
+[2022.10.04-20.05.03:903][515]LogSavePackage: Moving output files for package: /Game/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_02
+[2022.10.04-20.05.03:915][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/spruce_full_023CE8D4784E664698000811B1CC29C20B.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_02.uasset'
+[2022.10.04-20.05.04:032][515]LogSavePackage: Moving output files for package: /Game/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_03
+[2022.10.04-20.05.04:048][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/spruce_full_03CD3F4D1B411B58886785138713C4D797.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_03.uasset'
+[2022.10.04-20.05.04:198][515]LogSavePackage: Moving output files for package: /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_01
+[2022.10.04-20.05.04:214][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/spruce_half_01215A3C534B036E403453698A4BF63744.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_01.uasset'
+[2022.10.04-20.05.04:372][515]LogSavePackage: Moving output files for package: /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_02
+[2022.10.04-20.05.04:387][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/spruce_half_02E55755594AA985DFF6B62D9816396F50.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_02.uasset'
+[2022.10.04-20.05.04:549][515]LogSavePackage: Moving output files for package: /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_03
+[2022.10.04-20.05.04:566][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/spruce_half_0393B39EB141DD3904A8A2A8BA90722043.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_03.uasset'
+[2022.10.04-20.05.04:717][515]LogSavePackage: Moving output files for package: /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_04
+[2022.10.04-20.05.04:733][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/spruce_half_0498B780494A6B8FC870A69FA86B33C289.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_04.uasset'
+[2022.10.04-20.05.04:777][515]LogSavePackage: Moving output files for package: /Game/PN_interactiveSpruceForest/Meshes/small/spruce_small_05
+[2022.10.04-20.05.04:791][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/spruce_small_05DA563E2A4A9371B8137133912D536E69.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/PN_interactiveSpruceForest/Meshes/small/spruce_small_05.uasset'
+[2022.10.04-20.05.04:873][515]LogSavePackage: Moving output files for package: /Game/PN_interactiveSpruceForest/Meshes/small/spruce_small_06
+[2022.10.04-20.05.04:887][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/spruce_small_0649ECC7854427A0FBCABC79A3817C97F2.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/PN_interactiveSpruceForest/Meshes/small/spruce_small_06.uasset'
+[2022.10.04-20.05.04:967][515]LogSavePackage: Moving output files for package: /Game/PN_interactiveSpruceForest/Meshes/small/spruce_small_07
+[2022.10.04-20.05.04:981][515]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/spruce_small_07F338101744429B44BEE7C7ACDC9D112E.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/PN_interactiveSpruceForest/Meshes/small/spruce_small_07.uasset'
+[2022.10.04-20.05.05:212][515]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.04-20.05.05:212][515]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.05.05:213][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_01.SM_BlackAlder_Field_01
+[2022.10.04-20.05.05:213][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_02.SM_BlackAlder_Field_02
+[2022.10.04-20.05.05:213][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_03.SM_BlackAlder_Field_03
+[2022.10.04-20.05.05:213][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_04.SM_BlackAlder_Field_04
+[2022.10.04-20.05.05:213][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_05.SM_BlackAlder_Field_05
+[2022.10.04-20.05.05:213][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_01.SM_BlackAlder_Forest_01
+[2022.10.04-20.05.05:214][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_02.SM_BlackAlder_Forest_02
+[2022.10.04-20.05.05:214][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_03.SM_BlackAlder_Forest_03
+[2022.10.04-20.05.05:214][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_04.SM_BlackAlder_Forest_04
+[2022.10.04-20.05.05:214][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_05.SM_BlackAlder_Forest_05
+[2022.10.04-20.05.05:214][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_06.SM_BlackAlder_Forest_06
+[2022.10.04-20.05.05:214][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_07.SM_BlackAlder_Forest_07
+[2022.10.04-20.05.05:214][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_08.SM_BlackAlder_Forest_08
+[2022.10.04-20.05.05:214][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_09.SM_BlackAlder_Forest_09
+[2022.10.04-20.05.05:214][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_01.SM_BlackAlder_Sapling_01
+[2022.10.04-20.05.05:214][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_02.SM_BlackAlder_Sapling_02
+[2022.10.04-20.05.05:214][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_03.SM_BlackAlder_Sapling_03
+[2022.10.04-20.05.05:215][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_04.SM_BlackAlder_Sapling_04
+[2022.10.04-20.05.05:215][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_05.SM_BlackAlder_Sapling_05
+[2022.10.04-20.05.05:215][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Sapling_06.SM_BlackAlder_Sapling_06
+[2022.10.04-20.05.05:215][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Seedling_01.SM_BlackAlder_Seedling_01
+[2022.10.04-20.05.05:215][515]LogContentValidation: Display: Validating StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Seedling_02.SM_BlackAlder_Seedling_02
+[2022.10.04-20.05.05:215][515]LogContentValidation: Display: Validating StaticMesh /Game/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_01.spruce_full_01
+[2022.10.04-20.05.05:215][515]LogContentValidation: Display: Validating StaticMesh /Game/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_02.spruce_full_02
+[2022.10.04-20.05.05:215][515]LogContentValidation: Display: Validating StaticMesh /Game/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_03.spruce_full_03
+[2022.10.04-20.05.05:215][515]LogContentValidation: Display: Validating StaticMesh /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_01.spruce_half_01
+[2022.10.04-20.05.05:215][515]LogContentValidation: Display: Validating StaticMesh /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_02.spruce_half_02
+[2022.10.04-20.05.05:216][515]LogContentValidation: Display: Validating StaticMesh /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_03.spruce_half_03
+[2022.10.04-20.05.05:216][515]LogContentValidation: Display: Validating StaticMesh /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_04.spruce_half_04
+[2022.10.04-20.05.05:216][515]LogContentValidation: Display: Validating StaticMesh /Game/PN_interactiveSpruceForest/Meshes/small/spruce_small_05.spruce_small_05
+[2022.10.04-20.05.05:216][515]LogContentValidation: Display: Validating StaticMesh /Game/PN_interactiveSpruceForest/Meshes/small/spruce_small_06.spruce_small_06
+[2022.10.04-20.05.05:216][515]LogContentValidation: Display: Validating StaticMesh /Game/PN_interactiveSpruceForest/Meshes/small/spruce_small_07.spruce_small_07
+[2022.10.04-20.06.24:269][611]LogViewport: Scene viewport resized to 1561x1218, mode Windowed.
+[2022.10.04-20.07.23:113][364]Cmd: TRANSACTION UNDO
+[2022.10.04-20.07.23:113][364]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.07.31:745][856]Cmd: TRANSACTION UNDO
+[2022.10.04-20.07.31:745][856]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.07.43:463][556]Cmd: TRANSACTION UNDO
+[2022.10.04-20.07.43:463][556]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.07.46:618][726]Cmd: TRANSACTION UNDO
+[2022.10.04-20.07.46:618][726]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.07.52:956][ 27]Cmd: TRANSACTION UNDO
+[2022.10.04-20.07.52:957][ 27]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.08.28:390][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.04-20.08.28:682][907]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.08.28:704][907]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment54472F434CE6B756576300B0FE40CF77.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.08.28:775][907]LogFileHelpers: No new changes to save!
+[2022.10.04-20.08.28:786][907]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.08.28:786][907]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.08.56:239][486]Cmd: TRANSACTION UNDO
+[2022.10.04-20.08.56:239][486]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.09.01:902][788]Cmd: TRANSACTION UNDO
+[2022.10.04-20.09.01:902][788]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.09.02:219][790]Cmd: TRANSACTION UNDO
+[2022.10.04-20.09.02:219][790]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.09.19:696][801]Cmd: TRANSACTION UNDO
+[2022.10.04-20.09.19:696][801]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.09.31:062][494]Cmd: TRANSACTION UNDO
+[2022.10.04-20.09.31:062][494]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.10.15:336][398]Cmd: TRANSACTION UNDO
+[2022.10.04-20.10.15:336][398]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.10.18:637][588]Cmd: TRANSACTION UNDO
+[2022.10.04-20.10.18:637][588]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.10.21:175][727]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.10.04-20.10.25:782][  1]Cmd: TRANSACTION UNDO
+[2022.10.04-20.10.25:782][  1]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.11.06:601][655]Cmd: TRANSACTION UNDO
+[2022.10.04-20.11.06:601][655]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.11.09:860][685]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2022.10.04-20.11.18:675][207]Cmd: TRANSACTION UNDO
+[2022.10.04-20.11.18:676][207]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.12.14:370][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.10.04-20.12.14:661][705]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.12.14:680][705]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentC573E89D4076F6CEF0204D8A4DAF8B5D.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.12.14:754][705]LogFileHelpers: No new changes to save!
+[2022.10.04-20.12.14:765][705]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.12.14:765][705]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.12.15:360][741]LogViewport: Scene viewport resized to 2035x1218, mode Windowed.
+[2022.10.04-20.12.43:211][389]LogViewport: Scene viewport resized to 1561x1218, mode Windowed.
+[2022.10.04-20.12.45:441][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_01.SM_BlackAlder_Field_01
+[2022.10.04-20.12.45:441][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_01.SM_BlackAlder_Field_01
+[2022.10.04-20.12.45:442][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_01.SM_BlackAlder_Field_01 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_208
+[2022.10.04-20.12.45:443][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_02.SM_BlackAlder_Field_02
+[2022.10.04-20.12.45:443][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_02.SM_BlackAlder_Field_02
+[2022.10.04-20.12.45:443][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_02.SM_BlackAlder_Field_02 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_209
+[2022.10.04-20.12.45:444][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_03.SM_BlackAlder_Field_03
+[2022.10.04-20.12.45:444][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_03.SM_BlackAlder_Field_03
+[2022.10.04-20.12.45:444][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_03.SM_BlackAlder_Field_03 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_210
+[2022.10.04-20.12.45:444][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_04.SM_BlackAlder_Field_04
+[2022.10.04-20.12.45:444][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_04.SM_BlackAlder_Field_04
+[2022.10.04-20.12.45:445][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_04.SM_BlackAlder_Field_04 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_211
+[2022.10.04-20.12.45:445][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_05.SM_BlackAlder_Field_05
+[2022.10.04-20.12.45:445][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_05.SM_BlackAlder_Field_05
+[2022.10.04-20.12.45:445][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_05.SM_BlackAlder_Field_05 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_212
+[2022.10.04-20.12.45:446][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_01.SM_BlackAlder_Forest_01
+[2022.10.04-20.12.45:446][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_01.SM_BlackAlder_Forest_01
+[2022.10.04-20.12.45:446][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_01.SM_BlackAlder_Forest_01 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_213
+[2022.10.04-20.12.45:447][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_02.SM_BlackAlder_Forest_02
+[2022.10.04-20.12.45:447][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_02.SM_BlackAlder_Forest_02
+[2022.10.04-20.12.45:447][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_02.SM_BlackAlder_Forest_02 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_214
+[2022.10.04-20.12.45:447][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_03.SM_BlackAlder_Forest_03
+[2022.10.04-20.12.45:447][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_03.SM_BlackAlder_Forest_03
+[2022.10.04-20.12.45:448][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_03.SM_BlackAlder_Forest_03 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_215
+[2022.10.04-20.12.45:448][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_04.SM_BlackAlder_Forest_04
+[2022.10.04-20.12.45:448][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_04.SM_BlackAlder_Forest_04
+[2022.10.04-20.12.45:448][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_04.SM_BlackAlder_Forest_04 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_216
+[2022.10.04-20.12.45:449][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_05.SM_BlackAlder_Forest_05
+[2022.10.04-20.12.45:449][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_05.SM_BlackAlder_Forest_05
+[2022.10.04-20.12.45:449][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Forest_05.SM_BlackAlder_Forest_05 as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_217
+[2022.10.04-20.12.54:749][ 58]Cmd: TRANSACTION UNDO
+[2022.10.04-20.12.54:749][ 58]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.13.45:407][446]Cmd: TRANSACTION UNDO
+[2022.10.04-20.13.45:407][446]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.14.21:786][801]Cmd: TRANSACTION UNDO
+[2022.10.04-20.14.21:786][801]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.14.37:969][899]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2022.10.04-20.14.40:266][ 46]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2022.10.04-20.14.41:361][ 96]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.10.04-20.14.44:798][256]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2022.10.04-20.14.59:481][494]Cmd: TRANSACTION UNDO
+[2022.10.04-20.14.59:481][494]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.15.20:358][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.04-20.15.20:653][858]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.15.20:673][858]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment0CDA5F2B4E8D9681E3E2CCBA8FE0E67E.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.15.20:747][858]LogFileHelpers: No new changes to save!
+[2022.10.04-20.15.20:758][858]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.15.20:759][858]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.15.30:032][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.04-20.15.30:327][494]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.15.30:346][494]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment53A7BD5046064D20076AFB9671A03D76.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.15.30:418][494]LogFileHelpers: No new changes to save!
+[2022.10.04-20.15.30:431][494]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.15.30:431][494]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.15.44:745][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.10.04-20.15.45:040][472]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.15.45:076][472]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentB708C15744B2CAEE96C6398263035433.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.15.45:153][472]LogFileHelpers: No new changes to save!
+[2022.10.04-20.15.45:164][472]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.15.45:164][472]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.15.48:072][653]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.10.04-20.15.48:302][658]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2022.10.04-20.15.49:551][709]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.10.04-20.15.51:943][813]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.10.04-20.15.52:371][826]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2022.10.04-20.16.23:676][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.04-20.16.23:977][642]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.16.24:014][642]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment81488F414202DDA61AB918A9E9A7EE85.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.16.24:085][642]LogFileHelpers: No new changes to save!
+[2022.10.04-20.16.24:097][642]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.16.24:097][642]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.17.05:911][573]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.10.04-20.18.19:905][174]LogViewport: Scene viewport resized to 2035x1218, mode Windowed.
+[2022.10.04-20.18.21:120][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.04-20.18.21:425][229]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.18.21:466][229]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentE1BB923E40EF44885776A6A5B3F621BB.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.18.21:545][229]LogFileHelpers: No new changes to save!
+[2022.10.04-20.18.21:580][229]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.18.21:581][229]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.18.54:633][384]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2022.10.04-20.19.20:334][500]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.04-20.19.20:334][500]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.04-20.19.25:316][ 47]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.04-20.19.25:316][ 47]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.04-20.19.50:328][455]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_A_.Bark_A_
+[2022.10.04-20.19.50:378][455]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.10.04-20.19.50:558][455]LogViewport: Scene viewport resized to 1113x980, mode Windowed.
+[2022.10.04-20.20.22:088][176]LogTexture: Display: Building textures: /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_A_.Bark_A_ (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.10.04-20.20.26:543][363]LogSavePackage: Moving output files for package: /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_A_
+[2022.10.04-20.20.26:607][363]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/Bark_A_BD66648C4EB6C3C6085A51A2556B2199.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_A_.uasset'
+[2022.10.04-20.20.26:713][363]AssetCheck: New page: Asset Save: Bark_A_
+[2022.10.04-20.20.26:713][363]LogContentValidation: Display: Validating Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_A_.Bark_A_
+[2022.10.04-20.20.34:916][804]LogSlate: Window 'Bark_A_' being destroyed
+[2022.10.04-20.20.34:921][804]LogSlate: Window 'Bark_A_' being destroyed
+[2022.10.04-20.21.38:505][223]LogTexture: Display: Building textures: /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_A_01.Leaf_A_01 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.10.04-20.21.39:839][369]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_A_02.Leaf_A_02
+[2022.10.04-20.21.39:840][369]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.10.04-20.21.39:988][369]LogViewport: Scene viewport resized to 1114x982, mode Windowed.
+[2022.10.04-20.21.44:648][620]LogSlate: Window 'Leaf_A_02' being destroyed
+[2022.10.04-20.21.44:653][620]LogSlate: Window 'Leaf_A_02' being destroyed
+[2022.10.04-20.22.29:942][684]Cmd: TRANSACTION UNDO
+[2022.10.04-20.22.29:942][684]LogEditorTransaction: Undo Clicking on Elements
+[2022.10.04-20.22.31:508][753]Cmd: TRANSACTION UNDO
+[2022.10.04-20.22.31:508][753]LogEditorTransaction: Undo Clicking on Elements
+[2022.10.04-20.22.32:091][795]Cmd: TRANSACTION UNDO
+[2022.10.04-20.22.32:091][795]LogEditorTransaction: Undo Edit Maximum Texture Size
+[2022.10.04-20.22.46:307][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.04-20.22.46:609][809]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.22.46:629][809]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentA72508C642DEB81E21E8A89496AA2D61.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.22.46:704][809]LogFileHelpers: No new changes to save!
+[2022.10.04-20.22.46:717][809]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.22.46:717][809]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.23.38:062][193]Cmd: r.Streaming.PoolSize 3000
+[2022.10.04-20.23.38:062][193]r.Streaming.PoolSize = "3000"
+[2022.10.04-20.23.38:064][193]LogContentStreaming: Texture pool size now 3000 MB
+[2022.10.04-20.23.45:259][640]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.10.04-20.24.50:274][855]LogViewport: Scene viewport resized to 1561x1218, mode Windowed.
+[2022.10.04-20.34.44:797][143]LogViewport: Scene viewport resized to 2035x1218, mode Windowed.
+[2022.10.04-20.34.45:806][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.04-20.34.46:106][207]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.34.46:127][207]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment351CB08341EAC46E9CBED3AF92366DED.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.34.46:201][207]LogFileHelpers: No new changes to save!
+[2022.10.04-20.34.46:215][207]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.34.46:215][207]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.34.53:266][873]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.10.04-20.34.53:266][873]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.10.04-20.34.53:267][873]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_230
+[2022.10.04-20.34.53:267][873]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_230
+[2022.10.04-20.36.42:218][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.04-20.36.42:543][341]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.36.42:579][341]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment0BBB083F4B049190E791A0BDB8565C94.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.36.42:641][341]LogFileHelpers: No new changes to save!
+[2022.10.04-20.36.42:655][341]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.36.42:655][341]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.36.43:570][404]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.04-20.36.43:596][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.04-20.36.43:596][404]PIE: New page: PIE session: CastleEnvironment (Oct 4, 2022, 10:36:43 AM)
+[2022.10.04-20.36.43:602][404]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.04-20.36.43:602][404]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.04-20.36.43:604][404]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleEnvironment
+[2022.10.04-20.36.43:652][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048153s)
+[2022.10.04-20.36.43:652][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleEnvironment.CastleEnvironment to /Game/Maps/UEDPIE_0_CastleEnvironment.CastleEnvironment (0.048290s)
+[2022.10.04-20.36.43:652][404]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.04-20.36.43:652][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.04-20.36.43:653][404]LogAIModule: Creating AISystem for world CastleEnvironment
+[2022.10.04-20.36.43:653][404]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2022.10.04-20.36.43:672][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.10.04-20.36.43:674][404]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.04-20.36.43:674][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.04-20.36.43:674][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.04-20.36.43:674][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.04-20.36.43:674][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.04-20.36.43:674][404]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.04-20.36.43:674][404]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.04-20.36.43:674][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.04-20.36.43:674][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.04-20.36.43:675][404]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.04-20.36.43:675][404]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.04-20.36.43:675][404]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.04-20.36.43:679][404]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.04-20.36.43:824][404]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2022.10.04-20.36.43:824][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.04-20.36.43:824][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.04-20.36.43:824][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.04-20.36.43:825][404]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.04-20.36.43:825][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.04-20.36.43:828][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.04-20.36.43:829][404]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.04-20.36.43:829][404]LogInit: FAudioDevice initialized.
+[2022.10.04-20.36.43:829][404]LogAudio: Display: Audio Device (ID: 2) registered with world 'CastleEnvironment'.
+[2022.10.04-20.36.44:382][404]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.04-20.36.44:400][404]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleEnvironment.CastleEnvironment up for play (max tick rate 0) at 2022.10.04-15.36.44
+[2022.10.04-20.36.44:402][404]LogWorld: Bringing up level for play took: 0.018582
+[2022.10.04-20.36.44:405][404]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.10.04-20.36.44:465][404]PIE: Server logged in
+[2022.10.04-20.36.44:467][404]PIE: Play in editor total start time 0.873 seconds.
+[2022.10.04-20.37.00:690][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.04-20.37.00:690][628]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CastleEnvironment
+[2022.10.04-20.37.00:690][628]LogWorld: UWorld::CleanupWorld for CastleEnvironment, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-20.37.00:692][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-20.37.00:709][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.04-20.37.00:714][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-20.37.00:729][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.04-20.37.00:734][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.04-20.37.00:736][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.04-20.37.00:762][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.04-20.37.00:841][629]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.10.04-20.38.09:812][234]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.04-20.38.09:820][234]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.04-20.38.09:832][234]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.04-20.38.13:542][234]LogContentBrowser: Attempting asset rename: NewFolder -> MyStuff
+[2022.10.04-20.38.13:544][234]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.04-20.38.16:454][234]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.04-20.38.16:475][234]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.04-20.38.16:502][234]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.04-20.38.18:538][234]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2022.10.04-20.38.18:538][234]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.04-20.38.27:325][234]LogSlate: Window 'Save Asset As' being destroyed
+[2022.10.04-20.38.30:077][387]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MyStuff/Materials/InvisWallMaterial.InvisWallMaterial
+[2022.10.04-20.38.30:081][387]LogMaterial: Display: Missing cached shadermap for Preview:InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 11510D640D72D7B823E8F8D930393C6813FFC713), compiling. 
+[2022.10.04-20.38.30:103][387]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.04-20.38.30:292][387]LogMaterial: Display: Missing cached shadermap for Preview:InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E6A37E42452274023445A17087875AF479C259FD), compiling. 
+[2022.10.04-20.38.30:362][387]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.04-20.38.30:362][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.38.30:362][387]MaterialEditorStats: Shader Count: 0
+[2022.10.04-20.38.30:369][387]LogSlate: Took 0.001618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.04-20.38.30:373][387]LogViewport: Scene viewport resized to 293x492, mode Windowed.
+[2022.10.04-20.38.31:112][418]LogShaderCompilers: Display: ================================================
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Total job queries 610, among them cache hits 1 (0.16%)
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Tracking 594 distinct input hashes that result in 421 distinct outputs (70.88%)
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: RAM used: 1.92 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.06%
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Shaders Compiled: 605
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Jobs assigned 597, completed 594 (99.50%)
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Average time worker was idle: 320.14 s
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Time job spent in pending queue: average 26.07 s, longest 79.27 s
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Job execution time: average 14.08 s, max 29.76 s
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Job life time (pending + execution): average 40.28 s, max 84.47
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 103.73 s
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Jobs were issued in 149 batches (only local compilation was used), average 4.01 jobs/batch
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Average processing rate: 5.73 jobs/sec
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Effective parallelization: 9.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   10 times, average 3.63 sec, max 5.70 sec, min 2.60 sec)
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display:                       TLightMapDensityVSFDummyLightMapPolicy (compiled   10 times, average 3.51 sec, max 6.33 sec, min 2.51 sec)
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled   10 times, average 3.48 sec, max 5.65 sec, min 2.58 sec)
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   10 times, average 3.42 sec, max 4.04 sec, min 2.46 sec)
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled   10 times, average 3.29 sec, max 4.11 sec, min 2.45 sec)
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.13% of total time (compiled   15 times, average 2.68 sec, max 5.81 sec, min 0.60 sec)
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ - 4.10% of total time (compiled   15 times, average 2.66 sec, max 4.41 sec, min 0.74 sec)
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 3.99% of total time (compiled   15 times, average 2.59 sec, max 4.81 sec, min 0.81 sec)
+[2022.10.04-20.38.31:113][418]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy - 3.96% of total time (compiled   15 times, average 2.57 sec, max 4.96 sec, min 0.76 sec)
+[2022.10.04-20.38.31:114][418]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.91% of total time (compiled   15 times, average 2.54 sec, max 4.60 sec, min 0.80 sec)
+[2022.10.04-20.38.31:114][418]LogShaderCompilers: Display: ================================================
+[2022.10.04-20.38.31:554][435]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.04-20.38.31:554][435]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.38.31:554][435]MaterialEditorStats: Shader Count: 3
+[2022.10.04-20.38.37:077][717]LogMaterial: Display: Missing cached shadermap for Preview:InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8C4EF277B1C4827711407753D93BCD44AD43D4AF), compiling. 
+[2022.10.04-20.38.37:091][717]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.04-20.38.37:091][717]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.38.37:091][717]MaterialEditorStats: Shader Count: 0
+[2022.10.04-20.38.37:202][720]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.04-20.38.37:202][720]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.38.37:202][720]MaterialEditorStats: Shader Count: 4
+[2022.10.04-20.38.42:296][980]LogMaterial: Display: Missing cached shadermap for Preview:InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FE49A22A343B585EB88D397A694D1D65CD8681F1), compiling. 
+[2022.10.04-20.38.42:302][980]LogMaterial: Display: Missing cached shadermap for Preview:InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4A6BD35C3777F7554DCD2C8C5200D4FA0DE36388), compiling. 
+[2022.10.04-20.38.42:307][980]LogMaterial: Display: Missing cached shadermap for Preview:InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2813BBE7953F4410298DB6ED1A34F4D532C8F603), compiling. 
+[2022.10.04-20.38.42:314][980]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.04-20.38.42:314][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.38.42:314][980]MaterialEditorStats: Shader Count: 0
+[2022.10.04-20.38.43:370][ 22]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.04-20.38.43:370][ 22]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.38.43:370][ 22]MaterialEditorStats: Shader Count: 1
+[2022.10.04-20.38.43:485][ 28]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.04-20.38.43:485][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.38.43:485][ 28]MaterialEditorStats: Shader Count: 2
+[2022.10.04-20.38.46:721][189]LogMaterialEditor: Applying material InvisWallMaterial
+[2022.10.04-20.38.47:281][189]LogMaterial: Display: Missing cached shadermap for Preview:InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D425F9BECCD394B500242F85F8045B5B2FF08793), compiling. 
+[2022.10.04-20.38.47:299][189]LogMaterial: Display: Missing cached shadermap for InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D1EA2967D8A60F1CFAE4BD63073704523FA4FAAE), compiling. 
+[2022.10.04-20.38.47:347][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.04-20.38.48:261][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.10.04-20.38.48:276][189]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.04-20.38.48:276][189]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.38.48:277][189]MaterialEditorStats: Shader Count: 2
+[2022.10.04-20.38.48:375][191]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.04-20.38.48:375][191]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.38.48:375][191]MaterialEditorStats: Shader Count: 4
+[2022.10.04-20.39.31:434][413]LogMaterial: Display: Missing cached shadermap for Preview:InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D8B91B9FF945F04F08B76C65260631B3CB35E1D4), compiling. 
+[2022.10.04-20.39.31:448][413]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.04-20.39.31:448][413]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.39.31:448][413]MaterialEditorStats: Shader Count: 0
+[2022.10.04-20.39.31:519][416]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.04-20.39.31:520][416]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.39.31:520][416]MaterialEditorStats: Shader Count: 2
+[2022.10.04-20.39.59:185][855]LogMaterial: Display: Missing cached shadermap for Preview:InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 71BB969A1B4BB54E8DB6496AF30E311A6EDE850B), compiling. 
+[2022.10.04-20.39.59:193][855]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.04-20.39.59:193][855]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.39.59:193][855]MaterialEditorStats: Shader Count: 0
+[2022.10.04-20.39.59:252][857]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.04-20.39.59:252][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.39.59:252][857]MaterialEditorStats: Shader Count: 2
+[2022.10.04-20.40.06:437][229]LogMaterial: Display: Missing cached shadermap for Preview:InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5CAE499608BADCC7273E473A0F83A4C3D6D92AFD), compiling. 
+[2022.10.04-20.40.06:443][229]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.04-20.40.06:443][229]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.40.06:443][229]MaterialEditorStats: Shader Count: 0
+[2022.10.04-20.40.07:482][271]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.04-20.40.07:482][271]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.40.07:482][271]MaterialEditorStats: Shader Count: 1
+[2022.10.04-20.40.07:790][286]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.04-20.40.07:790][286]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.40.07:790][286]MaterialEditorStats: Shader Count: 2
+[2022.10.04-20.40.10:040][400]LogMaterialEditor: Applying material InvisWallMaterial
+[2022.10.04-20.40.10:471][400]LogMaterial: Display: Missing cached shadermap for Preview:InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7DF0C78EE5275743FFF497B5B731E093FBCFAF8D), compiling. 
+[2022.10.04-20.40.10:497][400]LogMaterial: Display: Missing cached shadermap for InvisWallMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 303669E5989F9EC62E4DC88F52F1E87B21B9F12C), compiling. 
+[2022.10.04-20.40.10:524][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.10.04-20.40.11:471][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.04-20.40.11:487][400]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.04-20.40.11:487][400]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.40.11:487][400]MaterialEditorStats: Shader Count: 2
+[2022.10.04-20.40.11:593][402]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.04-20.40.11:593][402]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.40.11:593][402]MaterialEditorStats: Shader Count: 4
+[2022.10.04-20.40.13:857][502]LogMaterialEditor: Saving and Compiling material InvisWallMaterial
+[2022.10.04-20.40.18:670][502]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.10.04-20.40.18:670][502]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.048806s
+[2022.10.04-20.40.18:672][502]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.050000s (0.055224s overbudget)
+[2022.10.04-20.40.18:753][502]LogSavePackage: Moving output files for package: /Game/MyStuff/Materials/InvisWallMaterial
+[2022.10.04-20.40.18:753][502]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/InvisWallMaterial52C84DDF400C82618F50CA9279572DCA.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/MyStuff/Materials/InvisWallMaterial.uasset'
+[2022.10.04-20.40.18:781][502]AssetCheck: New page: Asset Save: InvisWallMaterial
+[2022.10.04-20.40.18:781][502]LogContentValidation: Display: Validating Material /Game/MyStuff/Materials/InvisWallMaterial.InvisWallMaterial
+[2022.10.04-20.40.18:782][502]MaterialEditorStats: Base pass shader: 111 instructions
+[2022.10.04-20.40.18:782][502]MaterialEditorStats: Base pass vertex shader: 273 instructions
+[2022.10.04-20.40.18:782][502]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.04-20.40.18:782][502]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.04-20.40.18:782][502]MaterialEditorStats: Shader Count: 26
+[2022.10.04-20.40.20:840][595]LogSlate: Window 'InvisWallMaterial' being destroyed
+[2022.10.04-20.40.20:849][595]LogSlate: Window 'InvisWallMaterial' being destroyed
+[2022.10.04-20.40.20:951][595]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-20.40.20:951][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-20.42.47:041][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.04-20.42.47:345][896]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.42.47:365][896]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment554F307C40F21004126756A175FAC97F.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.42.47:436][896]LogFileHelpers: No new changes to save!
+[2022.10.04-20.42.47:448][896]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.42.47:448][896]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.42.48:224][945]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.04-20.42.48:252][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.04-20.42.48:252][945]PIE: New page: PIE session: CastleEnvironment (Oct 4, 2022, 10:42:48 AM)
+[2022.10.04-20.42.48:253][945]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleEnvironment
+[2022.10.04-20.42.48:290][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037122s)
+[2022.10.04-20.42.48:290][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleEnvironment.CastleEnvironment to /Game/Maps/UEDPIE_0_CastleEnvironment.CastleEnvironment (0.037223s)
+[2022.10.04-20.42.48:290][945]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.04-20.42.48:290][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.04-20.42.48:291][945]LogAIModule: Creating AISystem for world CastleEnvironment
+[2022.10.04-20.42.48:291][945]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2022.10.04-20.42.48:306][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.04-20.42.48:307][945]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.04-20.42.48:307][945]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.04-20.42.48:307][945]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.04-20.42.48:308][945]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.04-20.42.48:308][945]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.04-20.42.48:308][945]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.04-20.42.48:308][945]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.04-20.42.48:308][945]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.04-20.42.48:308][945]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.04-20.42.48:308][945]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.04-20.42.48:308][945]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.04-20.42.48:308][945]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.04-20.42.48:312][945]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.04-20.42.48:432][945]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2022.10.04-20.42.48:433][945]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.04-20.42.48:433][945]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.04-20.42.48:433][945]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.04-20.42.48:435][945]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.04-20.42.48:435][945]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.04-20.42.48:437][945]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.04-20.42.48:437][945]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.04-20.42.48:437][945]LogInit: FAudioDevice initialized.
+[2022.10.04-20.42.48:437][945]LogAudio: Display: Audio Device (ID: 3) registered with world 'CastleEnvironment'.
+[2022.10.04-20.42.48:463][945]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.04-20.42.48:489][945]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleEnvironment.CastleEnvironment up for play (max tick rate 0) at 2022.10.04-15.42.48
+[2022.10.04-20.42.48:490][945]LogWorld: Bringing up level for play took: 0.025938
+[2022.10.04-20.42.48:494][945]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.10.04-20.42.48:499][945]PIE: Server logged in
+[2022.10.04-20.42.48:499][945]PIE: Play in editor total start time 0.249 seconds.
+[2022.10.04-20.43.11:675][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.04-20.43.11:675][674]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CastleEnvironment
+[2022.10.04-20.43.11:675][674]LogWorld: UWorld::CleanupWorld for CastleEnvironment, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-20.43.11:677][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-20.43.11:690][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.04-20.43.11:694][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-20.43.11:711][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.04-20.43.11:711][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.04-20.43.11:712][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.04-20.43.11:726][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.04-20.43.11:816][675]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.10.04-20.43.31:627][978]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.10.04-20.43.31:627][978]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.10.04-20.43.31:628][978]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_233
+[2022.10.04-20.43.31:629][978]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_233
+[2022.10.04-20.43.32:825][ 58]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.10.04-20.43.32:825][ 58]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.10.04-20.43.32:826][ 58]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_234
+[2022.10.04-20.43.32:828][ 58]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.StaticMeshActor_234
+[2022.10.04-20.46.12:856][161]Cmd: TRANSACTION UNDO
+[2022.10.04-20.46.12:856][161]LogEditorTransaction: Undo Move Elements
+[2022.10.04-20.47.30:533][359]Cmd: DELETE
+[2022.10.04-20.47.30:533][359]Cmd: ACTOR DELETE
+[2022.10.04-20.47.30:540][359]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.04-20.47.30:559][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.10.04-20.47.30:566][359]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.10.04-20.47.56:508][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.04-20.47.56:833][170]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.47.56:867][170]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentAB3A29FE4E15058D0B506AA974E9E033.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.47.56:954][170]LogFileHelpers: No new changes to save!
+[2022.10.04-20.47.56:969][170]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.47.56:969][170]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.49.57:874][783]LogViewport: Scene viewport resized to 1561x1218, mode Windowed.
+[2022.10.04-20.50.36:847][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.04-20.50.37:147][256]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.50.37:181][256]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment65D60CC642063502D4E8E897E63FF1A4.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.50.37:251][256]LogFileHelpers: No new changes to save!
+[2022.10.04-20.50.37:264][256]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.50.37:264][256]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.54.46:989][431]Cmd: TRANSACTION UNDO
+[2022.10.04-20.54.46:989][431]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.54.47:314][434]Cmd: TRANSACTION UNDO
+[2022.10.04-20.54.47:314][434]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.54.47:622][436]Cmd: TRANSACTION UNDO
+[2022.10.04-20.54.47:622][436]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.55.41:216][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.04-20.55.41:524][914]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.55.41:541][914]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment76AC767D483B8DE943FC4EA332E1C1A2.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.55.41:618][914]LogFileHelpers: No new changes to save!
+[2022.10.04-20.55.41:630][914]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.55.41:630][914]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.57.24:769][764]Cmd: TRANSACTION UNDO
+[2022.10.04-20.57.24:769][764]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.57.29:165][954]Cmd: TRANSACTION UNDO
+[2022.10.04-20.57.29:166][954]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-20.58.17:447][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.04-20.58.17:760][803]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-20.58.17:780][803]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentF8CA67F54DC8A4E4D38AF490CC1263FB.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-20.58.17:855][803]LogFileHelpers: No new changes to save!
+[2022.10.04-20.58.17:868][803]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-20.58.17:868][803]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-20.58.21:688][ 63]LogViewport: Scene viewport resized to 2035x1218, mode Windowed.
+[2022.10.04-20.59.37:771][384]LogEditorViewport: Clicking Background
+[2022.10.04-21.01.20:568][156]LogViewport: Scene viewport resized to 1561x1218, mode Windowed.
+[2022.10.04-21.01.22:557][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.10.04-21.01.22:875][266]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.01.22:912][266]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment1A70BD67453EF701D6ADDDB2EC912157.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.01.22:989][266]LogFileHelpers: No new changes to save!
+[2022.10.04-21.01.23:024][266]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.01.23:024][266]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.02.32:116][496]LogDerivedDataCache: C:/Users/wustudent/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.344 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.04-21.03.10:251][642]Cmd: TRANSACTION UNDO
+[2022.10.04-21.03.10:251][642]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.04.20:996][ 90]Cmd: TRANSACTION UNDO
+[2022.10.04-21.04.20:996][ 90]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.04.31:468][641]Cmd: TRANSACTION UNDO
+[2022.10.04-21.04.31:468][641]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.04.36:980][910]Cmd: TRANSACTION UNDO
+[2022.10.04-21.04.36:980][910]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.04.49:041][629]Cmd: TRANSACTION UNDO
+[2022.10.04-21.04.49:041][629]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.04.49:341][632]Cmd: TRANSACTION UNDO
+[2022.10.04-21.04.49:341][632]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.05.23:384][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.04-21.05.23:712][569]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.05.23:729][569]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment9DD7736B42042912F794A5A019153167.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.05.23:809][569]LogFileHelpers: No new changes to save!
+[2022.10.04-21.05.23:820][569]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.05.23:820][569]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.05.24:817][640]LogViewport: Scene viewport resized to 2035x1218, mode Windowed.
+[2022.10.04-21.05.44:766][862]Cmd: DELETE
+[2022.10.04-21.05.44:766][862]Cmd: ACTOR DELETE
+[2022.10.04-21.05.44:778][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.04-21.05.44:779][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.04-21.05.44:779][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.04-21.05.44:779][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.04-21.05.44:779][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.04-21.05.44:780][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.04-21.05.44:780][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.04-21.05.44:780][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.04-21.05.44:780][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.04-21.05.44:780][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.04-21.05.44:781][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.04-21.05.44:795][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.10.04-21.05.44:800][862]LogEditorActor: Deleted 11 Actors (0.033 secs)
+[2022.10.04-21.06.21:676][829]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_15 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BA8CBA616D74C3954E0D5A61723AB486B110E52), compiling. 
+[2022.10.04-21.06.21:702][829]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_16 in PCD3D_SM5, Default, SM5 (DDC key hash: 4528AD5DB7197E0B86B9FE9231DFC3BE117B532E), compiling. 
+[2022.10.04-21.06.21:711][829]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_17 in PCD3D_SM5, Default, SM5 (DDC key hash: 5643C1E3313C966E86BE57C8C658A0397416BA4A), compiling. 
+[2022.10.04-21.06.21:725][829]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_18 in PCD3D_SM5, Default, SM5 (DDC key hash: 15A4085FC0BA5A223AE7E3DD370EADF9507DE54D), compiling. 
+[2022.10.04-21.06.21:738][829]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_19 in PCD3D_SM5, Default, SM5 (DDC key hash: 54C0492CA7348327F5D173B2E2CBC6408AF1BF8F), compiling. 
+[2022.10.04-21.06.21:748][829]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_20 in PCD3D_SM5, Default, SM5 (DDC key hash: 28F8F806F77FE9DB8BEDF620B57101FB193B2F10), compiling. 
+[2022.10.04-21.06.21:764][829]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_21 in PCD3D_SM5, Default, SM5 (DDC key hash: 866671E5081DA2B8E828BCE3D989C02ECB8CDD62), compiling. 
+[2022.10.04-21.06.21:866][829]LogViewport: Scene viewport resized to 1561x1218, mode Windowed.
+[2022.10.04-21.07.24:701][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.04-21.07.24:871][654]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.04-21.07.25:034][654]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.07.25:074][654]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment986361B74A2A668098636D8F2B8D2D2C.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.07.25:155][654]LogFileHelpers: No new changes to save!
+[2022.10.04-21.07.25:167][654]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.07.25:168][654]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.07.51:521][268]Cmd: TRANSACTION UNDO
+[2022.10.04-21.07.51:521][268]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.08.56:709][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.04-21.08.57:033][971]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.08.57:071][971]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment10BA956241F88F07287BADAA3E79BB59.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.08.57:273][971]LogFileHelpers: No new changes to save!
+[2022.10.04-21.08.57:288][971]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.08.57:288][971]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.12.21:233][286]LogShaderCompilers: Display: ================================================
+[2022.10.04-21.12.21:233][286]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Total job queries 712, among them cache hits 43 (6.04%)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Tracking 631 distinct input hashes that result in 447 distinct outputs (70.84%)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: RAM used: 1.98 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.06%
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Shaders Compiled: 623
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Jobs assigned 643, completed 631 (98.13%)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Average time worker was idle: 510.60 s
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Time job spent in pending queue: average 24.22 s, longest 79.27 s
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Job execution time: average 13.31 s, max 29.76 s
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Job life time (pending + execution): average 38.00 s, max 84.47
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 114.21 s
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Jobs were issued in 195 batches (only local compilation was used), average 3.30 jobs/batch
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Average processing rate: 5.52 jobs/sec
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Effective parallelization: 8.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   10 times, average 3.63 sec, max 5.70 sec, min 2.60 sec)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display:                       TLightMapDensityVSFDummyLightMapPolicy (compiled   10 times, average 3.51 sec, max 6.33 sec, min 2.51 sec)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled   10 times, average 3.48 sec, max 5.65 sec, min 2.58 sec)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   10 times, average 3.42 sec, max 4.04 sec, min 2.46 sec)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled   10 times, average 3.29 sec, max 4.11 sec, min 2.45 sec)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.11% of total time (compiled   17 times, average 2.42 sec, max 5.81 sec, min 0.42 sec)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ - 4.00% of total time (compiled   15 times, average 2.66 sec, max 4.41 sec, min 0.74 sec)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.91% of total time (compiled   16 times, average 2.44 sec, max 4.60 sec, min 0.80 sec)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.91% of total time (compiled   18 times, average 2.17 sec, max 3.71 sec, min 0.69 sec)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 3.89% of total time (compiled   15 times, average 2.59 sec, max 4.81 sec, min 0.81 sec)
+[2022.10.04-21.12.21:234][286]LogShaderCompilers: Display: ================================================
+[2022.10.04-21.12.38:191][ 30]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 867E6641AA9E4415ECEAE18A752A4D5F278E1931), compiling. 
+[2022.10.04-21.12.59:236][976]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_12 in PCD3D_SM5, Default, SM5 (DDC key hash: 156DE87906FEFD99EB7162E5E015C4448969B19E), compiling. 
+[2022.10.04-21.13.24:054][137]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_28 in PCD3D_SM5, Default, SM5 (DDC key hash: 38ED2921B1D461F2159AD6A9E9AFBD0F5AF201C7), compiling. 
+[2022.10.04-21.14.05:609][ 14]Cmd: TRANSACTION UNDO
+[2022.10.04-21.14.05:609][ 14]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.10.04-21.15.03:352][ 62]LogViewport: Scene viewport resized to 2035x1218, mode Windowed.
+[2022.10.04-21.15.06:624][170]LogViewport: Scene viewport resized to 1561x1218, mode Windowed.
+[2022.10.04-21.15.29:535][105]Cmd: TRANSACTION UNDO
+[2022.10.04-21.15.29:535][105]LogEditorTransaction: Undo Snap Foliage To Ground
+[2022.10.04-21.15.46:510][849]Cmd: TRANSACTION UNDO
+[2022.10.04-21.15.46:510][849]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.15.58:400][393]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.10.04-21.15.59:929][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.10.04-21.15.59:945][461]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.04-21.15.59:951][461]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_100 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.15.59:956][461]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_18 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.15.59:966][461]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_98 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.16.00:099][461]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_27 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.16.00:308][461]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.16.00:330][461]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment2F39872B4FF59F326B146DA4738B5FD5.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.16.00:411][461]LogFileHelpers: No new changes to save!
+[2022.10.04-21.16.00:460][461]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.16.00:461][461]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.16.39:570][149]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_36 in PCD3D_SM5, Default, SM5 (DDC key hash: 662661E5B65A4B4976415E81C084B99825B05366), compiling. 
+[2022.10.04-21.16.39:612][149]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_55 in PCD3D_SM5, Default, SM5 (DDC key hash: B2DD283FC860ECCCE34F516F9832B7F8E607B32B), compiling. 
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: ================================================
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Total job queries 748, among them cache hits 45 (6.02%)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Tracking 678 distinct input hashes that result in 466 distinct outputs (68.73%)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: RAM used: 2.04 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.06%
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Shaders Compiled: 633
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Jobs assigned 687, completed 678 (98.69%)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Average time worker was idle: 425.11 s
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Time job spent in pending queue: average 22.70 s, longest 79.27 s
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Job execution time: average 12.47 s, max 29.76 s
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Job life time (pending + execution): average 35.46 s, max 84.47
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 123.02 s
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Jobs were issued in 239 batches (only local compilation was used), average 2.87 jobs/batch
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Average processing rate: 5.51 jobs/sec
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Effective parallelization: 8.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   10 times, average 3.63 sec, max 5.70 sec, min 2.60 sec)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display:                       TLightMapDensityVSFDummyLightMapPolicy (compiled   10 times, average 3.51 sec, max 6.33 sec, min 2.51 sec)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled   10 times, average 3.48 sec, max 5.65 sec, min 2.58 sec)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   10 times, average 3.42 sec, max 4.04 sec, min 2.46 sec)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled   10 times, average 3.29 sec, max 4.11 sec, min 2.45 sec)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.38% of total time (compiled   25 times, average 1.81 sec, max 3.71 sec, min 0.69 sec)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.30% of total time (compiled   26 times, average 1.71 sec, max 3.52 sec, min 0.73 sec)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.97% of total time (compiled   17 times, average 2.42 sec, max 5.81 sec, min 0.42 sec)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 3.92% of total time (compiled   17 times, average 2.38 sec, max 4.81 sec, min 0.81 sec)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ - 3.86% of total time (compiled   15 times, average 2.66 sec, max 4.41 sec, min 0.74 sec)
+[2022.10.04-21.16.40:710][204]LogShaderCompilers: Display: ================================================
+[2022.10.04-21.17.42:963][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.04-21.17.42:974][222]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.04-21.17.42:983][222]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_27 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.17.42:987][222]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_28 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.17.43:135][222]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_29 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.17.43:344][222]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.17.43:385][222]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentEA9B573E455C99686613CD9AB04F15A0.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.17.43:474][222]LogFileHelpers: No new changes to save!
+[2022.10.04-21.17.43:517][222]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.17.43:517][222]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.18.09:530][484]Cmd: TRANSACTION UNDO
+[2022.10.04-21.18.09:530][484]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.18.17:130][801]Cmd: TRANSACTION UNDO
+[2022.10.04-21.18.17:130][801]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.18.27:472][354]Cmd: TRANSACTION UNDO
+[2022.10.04-21.18.27:472][354]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.18.32:902][637]Cmd: TRANSACTION UNDO
+[2022.10.04-21.18.32:902][637]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.18.34:620][706]Cmd: TRANSACTION UNDO
+[2022.10.04-21.18.34:620][706]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.18.37:413][860]Cmd: TRANSACTION UNDO
+[2022.10.04-21.18.37:413][860]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.18.40:229][ 16]Cmd: TRANSACTION UNDO
+[2022.10.04-21.18.40:230][ 16]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.18.44:996][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.04-21.18.45:348][278]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.18.45:370][278]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentA9BA5C0744A56E15D67555BBD0A235A3.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.18.45:455][278]LogFileHelpers: No new changes to save!
+[2022.10.04-21.18.45:470][278]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.18.45:470][278]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.19.29:049][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.04-21.19.29:056][516]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_101 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.19.29:061][516]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.19.29:063][516]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_98 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.19.29:068][516]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_29 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.19.29:222][516]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_30 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.19.29:421][516]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.19.29:439][516]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment06C1FE9B4A8A4684B73E37A9504146AC.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.19.29:522][516]LogFileHelpers: No new changes to save!
+[2022.10.04-21.19.29:558][516]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.19.29:558][516]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.19.44:365][230]Cmd: TRANSACTION UNDO
+[2022.10.04-21.19.44:365][230]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.20.04:790][183]Cmd: TRANSACTION UNDO
+[2022.10.04-21.20.04:790][183]LogEditorTransaction: Undo Snap Foliage To Ground
+[2022.10.04-21.20.52:550][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.04-21.20.52:887][362]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.20.52:923][362]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment44566DE146B2DF882EE23087C9EBB078.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.20.53:004][362]LogFileHelpers: No new changes to save!
+[2022.10.04-21.20.53:041][362]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.20.53:041][362]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.21.07:195][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.10.04-21.21.07:525][882]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.21.07:566][882]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentBCA00E9545ABB8BAA1F202B69C9C890E.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.21.07:658][882]LogFileHelpers: No new changes to save!
+[2022.10.04-21.21.07:694][882]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.21.07:694][882]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.21.08:016][892]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.10.04-21.21.45:367][503]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_62 in PCD3D_SM5, Default, SM5 (DDC key hash: 70012F6D9528708B74FB64A8393C7D00DF7A68A4), compiling. 
+[2022.10.04-21.21.45:408][504]LogShaderCompilers: Display: ================================================
+[2022.10.04-21.21.45:408][504]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.04-21.21.45:408][504]LogShaderCompilers: Display: Total job queries 754, among them cache hits 51 (6.76%)
+[2022.10.04-21.21.45:408][504]LogShaderCompilers: Display: Tracking 687 distinct input hashes that result in 469 distinct outputs (68.27%)
+[2022.10.04-21.21.45:408][504]LogShaderCompilers: Display: RAM used: 2.05 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.06%
+[2022.10.04-21.21.45:408][504]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.04-21.21.45:408][504]LogShaderCompilers: Display: Shaders Compiled: 635
+[2022.10.04-21.21.45:408][504]LogShaderCompilers: Display: Jobs assigned 687, completed 687 (100.00%)
+[2022.10.04-21.21.45:408][504]LogShaderCompilers: Display: Average time worker was idle: 425.11 s
+[2022.10.04-21.21.45:408][504]LogShaderCompilers: Display: Time job spent in pending queue: average 22.70 s, longest 79.27 s
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display: Job execution time: average 12.32 s, max 29.76 s
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display: Job life time (pending + execution): average 35.02 s, max 84.47
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 123.64 s
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display: Jobs were issued in 239 batches (only local compilation was used), average 2.87 jobs/batch
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display: Average processing rate: 5.56 jobs/sec
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display: Effective parallelization: 8.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   10 times, average 3.63 sec, max 5.70 sec, min 2.60 sec)
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display:                       TLightMapDensityVSFDummyLightMapPolicy (compiled   10 times, average 3.51 sec, max 6.33 sec, min 2.51 sec)
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled   10 times, average 3.48 sec, max 5.65 sec, min 2.58 sec)
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   10 times, average 3.42 sec, max 4.04 sec, min 2.46 sec)
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled   10 times, average 3.29 sec, max 4.11 sec, min 2.45 sec)
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.44% of total time (compiled   28 times, average 1.66 sec, max 3.52 sec, min 0.73 sec)
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.35% of total time (compiled   25 times, average 1.81 sec, max 3.71 sec, min 0.69 sec)
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 3.99% of total time (compiled   21 times, average 1.98 sec, max 3.74 sec, min 0.84 sec)
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.94% of total time (compiled   17 times, average 2.42 sec, max 5.81 sec, min 0.42 sec)
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 3.88% of total time (compiled   17 times, average 2.38 sec, max 4.81 sec, min 0.81 sec)
+[2022.10.04-21.21.45:409][504]LogShaderCompilers: Display: ================================================
+[2022.10.04-21.23.34:238][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.04-21.23.34:246][676]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_100 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.23.34:252][676]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_18 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.23.34:410][676]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_32 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.23.34:607][676]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.23.34:647][676]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment167E034B4E4838455AD929BDECE6A864.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.23.34:727][676]LogFileHelpers: No new changes to save!
+[2022.10.04-21.23.34:742][676]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.23.34:742][676]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.24.30:381][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.04-21.24.30:387][894]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_22 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.24.30:554][894]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Weightmap_32 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.04-21.24.30:760][894]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.24.30:782][894]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment3DCBACD54875E71ACB3B82B1FE4E9ABD.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.24.30:868][894]LogFileHelpers: No new changes to save!
+[2022.10.04-21.24.30:902][894]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.24.30:902][894]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.25.18:270][ 14]Cmd: TRANSACTION UNDO
+[2022.10.04-21.25.18:270][ 14]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.28.09:418][829]Cmd: TRANSACTION UNDO
+[2022.10.04-21.28.09:418][829]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.30.41:371][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.04-21.30.41:715][427]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.30.41:732][427]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentBAB8E7D54B185000F584EAB627F7AFB9.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.30.41:808][427]LogFileHelpers: No new changes to save!
+[2022.10.04-21.30.41:823][427]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.30.41:823][427]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.31.08:712][928]LogViewport: Scene viewport resized to 1931x1218, mode Windowed.
+[2022.10.04-21.31.13:794][148]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.10.04-21.31.13:796][148]LogViewport: Scene viewport resized to 2516x1218, mode Windowed.
+[2022.10.04-21.31.28:012][734]LogViewport: Scene viewport resized to 2035x1218, mode Windowed.
+[2022.10.04-21.34.14:866][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.04-21.34.15:225][ 71]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.34.15:247][ 71]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment82A3E62841B4DA6046ED2DAB407F480B.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.34.15:333][ 71]LogFileHelpers: No new changes to save!
+[2022.10.04-21.34.15:375][ 71]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.34.15:375][ 71]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.34.17:289][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.04-21.34.17:797][193]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CastleAssets/Maps/ExampleCastles.ExampleCastles
+[2022.10.04-21.34.17:797][193]Cmd: MAP LOAD FILE="C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/CastleAssets/Maps/ExampleCastles.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.04-21.34.17:797][193]LightingResults: New page: Lighting Build
+[2022.10.04-21.34.17:797][193]LoadErrors: New page: Loading map: ExampleCastles.umap
+[2022.10.04-21.34.17:801][193]LogWorld: UWorld::CleanupWorld for CastleEnvironment, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-21.34.17:802][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-21.34.17:802][193]MapCheck: New page: Map Check
+[2022.10.04-21.34.17:802][193]LightingResults: New page: Lighting Build
+[2022.10.04-21.34.17:815][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.04-21.34.17:827][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: ================================================
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Total job queries 756, among them cache hits 53 (7.01%)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Tracking 687 distinct input hashes that result in 469 distinct outputs (68.27%)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: RAM used: 2.05 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.06%
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Shaders Compiled: 635
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Jobs assigned 687, completed 687 (100.00%)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Average time worker was idle: 425.11 s
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Time job spent in pending queue: average 22.70 s, longest 79.27 s
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Job execution time: average 12.32 s, max 29.76 s
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Job life time (pending + execution): average 35.02 s, max 84.47
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 123.64 s
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Jobs were issued in 239 batches (only local compilation was used), average 2.87 jobs/batch
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Average processing rate: 5.56 jobs/sec
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Effective parallelization: 8.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   10 times, average 3.63 sec, max 5.70 sec, min 2.60 sec)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display:                       TLightMapDensityVSFDummyLightMapPolicy (compiled   10 times, average 3.51 sec, max 6.33 sec, min 2.51 sec)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled   10 times, average 3.48 sec, max 5.65 sec, min 2.58 sec)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   10 times, average 3.42 sec, max 4.04 sec, min 2.46 sec)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled   10 times, average 3.29 sec, max 4.11 sec, min 2.45 sec)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.44% of total time (compiled   28 times, average 1.66 sec, max 3.52 sec, min 0.73 sec)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.35% of total time (compiled   25 times, average 1.81 sec, max 3.71 sec, min 0.69 sec)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 3.99% of total time (compiled   21 times, average 1.98 sec, max 3.74 sec, min 0.84 sec)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.94% of total time (compiled   17 times, average 2.42 sec, max 5.81 sec, min 0.42 sec)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 3.88% of total time (compiled   17 times, average 2.38 sec, max 4.81 sec, min 0.81 sec)
+[2022.10.04-21.34.17:830][193]LogShaderCompilers: Display: ================================================
+[2022.10.04-21.34.17:856][193]LogWorld: UWorld::CleanupWorld for ExampleCastles, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-21.34.17:857][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-21.34.17:864][193]LogWorld: UWorld::CleanupWorld for CastleBackup02, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-21.34.17:864][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-21.34.17:887][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.04-21.34.17:902][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.04-21.34.17:960][193]LogAudio: Display: Audio Device (ID: 1) registered with world 'ExampleCastles'.
+[2022.10.04-21.34.17:961][193]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.04-21.34.17:961][193]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.04-21.34.17:961][193]LogAIModule: Creating AISystem for world ExampleCastles
+[2022.10.04-21.34.18:049][193]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.04-21.34.18:073][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.04-21.34.18:121][193]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.04-21.34.18:122][193]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
+[2022.10.04-21.34.18:122][193]LogFileHelpers: Loading map 'ExampleCastles' took 0.325
+[2022.10.04-21.34.33:822][250]Cmd: EDIT COPY
+[2022.10.04-21.35.05:369][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.04-21.35.05:527][412]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 867E6641AA9E4415ECEAE18A752A4D5F278E1931), compiling. 
+[2022.10.04-21.35.05:691][412]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_12 in PCD3D_SM5, Default, SM5 (DDC key hash: 156DE87906FEFD99EB7162E5E015C4448969B19E), compiling. 
+[2022.10.04-21.35.05:807][412]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_28 in PCD3D_SM5, Default, SM5 (DDC key hash: 38ED2921B1D461F2159AD6A9E9AFBD0F5AF201C7), compiling. 
+[2022.10.04-21.35.05:914][412]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_36 in PCD3D_SM5, Default, SM5 (DDC key hash: 662661E5B65A4B4976415E81C084B99825B05366), compiling. 
+[2022.10.04-21.35.06:019][412]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_55 in PCD3D_SM5, Default, SM5 (DDC key hash: B2DD283FC860ECCCE34F516F9832B7F8E607B32B), compiling. 
+[2022.10.04-21.35.06:159][412]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_62 in PCD3D_SM5, Default, SM5 (DDC key hash: 70012F6D9528708B74FB64A8393C7D00DF7A68A4), compiling. 
+[2022.10.04-21.35.06:308][412]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.35.06:308][412]Cmd: MAP LOAD FILE="C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.04-21.35.06:308][412]LightingResults: New page: Lighting Build
+[2022.10.04-21.35.06:308][412]LoadErrors: New page: Loading map: CastleEnvironment.umap
+[2022.10.04-21.35.06:345][412]LogWorld: UWorld::CleanupWorld for ExampleCastles, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-21.35.06:345][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-21.35.06:346][412]MapCheck: New page: Map Check
+[2022.10.04-21.35.06:346][412]LightingResults: New page: Lighting Build
+[2022.10.04-21.35.06:354][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.04-21.35.06:365][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.04-21.35.10:499][412]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.10.04-21.35.10:499][412]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049983s
+[2022.10.04-21.35.15:875][412]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.10.04-21.35.15:875][412]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049978s
+[2022.10.04-21.35.34:785][412]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.003945s (18.956983s overbudget)
+[2022.10.04-21.35.34:889][412]LogWorld: UWorld::CleanupWorld for CastleEnvironment, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-21.35.34:891][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-21.35.34:940][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.10.04-21.35.34:958][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.04-21.35.35:157][412]LogAudio: Display: Audio Device (ID: 1) registered with world 'CastleEnvironment'.
+[2022.10.04-21.35.35:157][412]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.04-21.35.35:157][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.04-21.35.35:157][412]LogAIModule: Creating AISystem for world CastleEnvironment
+[2022.10.04-21.35.35:377][412]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.04-21.35.35:396][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.10.04-21.35.35:454][412]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.04-21.35.35:454][412]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2022.10.04-21.35.35:455][412]LogFileHelpers: Loading map 'CastleEnvironment' took 29.147
+[2022.10.04-21.35.35:491][412]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.005676s (19.731594s overbudget)
+[2022.10.04-21.35.51:831][ 73]Cmd: EDIT PASTE
+[2022.10.04-21.35.51:887][ 73]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.04-21.35.52:904][ 73]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.015 s
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: 
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: Ensure condition failed: KnownStaticMesh == StaticMesh [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Components\StaticMeshComponent.cpp] [Line: 643]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: StaticMesh property overwritten for component StaticMeshComponent /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.SM_EntranceLargePillar4_0.StaticMeshComponent0 without a call to NotifyIfStaticMeshChanged(). KnownStaticMesh (0000000000000000) != StaticMesh (0000078A11E0F500 - StaticMesh /Game/CastleAssets/Meshes/SM_Wall01.SM_Wall01)
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: Stack: 
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff82459a3ba UnrealEditor-Engine.dll!UStaticMeshComponent::OutdatedKnownStaticMeshDetected() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Components\StaticMeshComponent.cpp:636]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8245a456b UnrealEditor-Engine.dll!UStaticMeshComponent::RemoveInstanceVertexColorsFromLOD() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Components\StaticMeshComponent.cpp:1268]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff824594d31 UnrealEditor-Engine.dll!UStaticMeshComponent::ImportCustomProperties() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Components\StaticMeshComponent.cpp:1724]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8224f8dde UnrealEditor-UnrealEd.dll!ImportProperties() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorObject.cpp:642]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8224f6fa2 UnrealEditor-UnrealEd.dll!ImportObjectProperties() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorObject.cpp:735]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8224f83d2 UnrealEditor-UnrealEd.dll!ImportProperties() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorObject.cpp:467]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8224f6fa2 UnrealEditor-UnrealEd.dll!ImportObjectProperties() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorObject.cpp:735]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8224f710b UnrealEditor-UnrealEd.dll!ImportObjectProperties() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorObject.cpp:837]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8225d0d19 UnrealEditor-UnrealEd.dll!ULevelFactory::FactoryCreateText() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Factories\EditorFactories.cpp:1222]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8223cafa3 UnrealEditor-UnrealEd.dll!UUnrealEdEngine::PasteActors() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorActor.cpp:351]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8223f8d40 UnrealEditor-UnrealEd.dll!UUnrealEdEngine::edactPasteSelected() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorActor.cpp:269]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff822509611 UnrealEditor-UnrealEd.dll!UEditorEngine::PasteSelectedActorsFromClipboard() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorServer.cpp:3648]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff822debfdf UnrealEditor-UnrealEd.dll!UUnrealEdEngine::Exec_Edit() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdSrv.cpp:1566]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff822de4cef UnrealEditor-UnrealEd.dll!UUnrealEdEngine::Exec() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdSrv.cpp:715]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff81d0d69a0 UnrealEditor-LevelEditor.dll!FLevelEditorActionCallbacks::ExecuteExecCommand() [D:\build\++UE5\Sync\Engine\Source\Editor\LevelEditor\Private\LevelEditorActions.cpp:1851]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff81d0d9ade UnrealEditor-LevelEditor.dll!TBaseStaticDelegateInstance<void __cdecl(void),FDefaultDelegateUserPolicy,FString>::ExecuteIfSafe() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:731]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff82eb64941 UnrealEditor-Slate.dll!FUICommandList::ConditionalProcessCommandBindings() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Commands\UICommandList.cpp:217]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff82ebbf9ad UnrealEditor-Slate.dll!FUICommandList::ProcessCommandBindings() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Commands\UICommandList.cpp:161]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff81d20407e UnrealEditor-LevelEditor.dll!SLevelEditor::OnKeyDown() [D:\build\++UE5\Sync\Engine\Source\Editor\LevelEditor\Private\SLevelEditor.cpp:1571]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff82ea84a85 UnrealEditor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FKeyEvent,<lambda_9dc931af886a2950ba18f18a6edc755e> >() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:410]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff82eae70b8 UnrealEditor-Slate.dll!FSlateApplication::ProcessKeyDownEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4449]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff82eadc181 UnrealEditor-Slate.dll!FSlateApplication::OnKeyDown() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4360]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff86a23a594 UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2045]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff86a229247 UnrealEditor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2699]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff86a23ce51 UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1078]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff86a2249a7 UnrealEditor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:916]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8ae40e858 USER32.dll!UnknownFunction []
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8ae40e4ee USER32.dll!UnknownFunction []
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ffffac17e59 InkObj.dll!UnknownFunction []
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00000211848f1028 atlthunk.dll!UnknownFunction []
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8ae40e858 USER32.dll!UnknownFunction []
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8ae40e299 USER32.dll!UnknownFunction []
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff86a23e148 UnrealEditor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsPlatformApplicationMisc.cpp:138]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff7d9087114 UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5139]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff7d90a0d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff7d90a0e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff7d90a3c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.10.04-21.35.52:904][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff7d90b5564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.10.04-21.35.52:905][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff7d90b8736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.10.04-21.35.52:905][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8ada37034 KERNEL32.DLL!UnknownFunction []
+[2022.10.04-21.35.52:905][ 73]LogOutputDevice: Error: [Callstack] 0x00007ff8afa02651 ntdll.dll!UnknownFunction []
+[2022.10.04-21.35.52:905][ 73]LogOutputDevice: Error: 
+[2022.10.04-21.35.52:913][ 73]LogStats:                SubmitErrorReport -  0.000 s
+[2022.10.04-21.35.54:461][ 73]LogStats:                    SendNewReport -  1.548 s
+[2022.10.04-21.35.54:461][ 73]LogStats:             FDebug::EnsureFailed -  2.573 s
+[2022.10.04-21.36.10:883][906]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.04-21.36.10:883][906]Can't find target element.
+[2022.10.04-21.37.43:457][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.04-21.37.43:892][813]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.37.43:929][813]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment284439284E111FC03C822CADA5D26F5F.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.37.44:005][813]LogFileHelpers: No new changes to save!
+[2022.10.04-21.37.44:057][813]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.37.44:057][813]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.37.45:520][894]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_22 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BA8CBA616D74C3954E0D5A61723AB486B110E52), compiling. 
+[2022.10.04-21.37.45:541][894]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_23 in PCD3D_SM5, Default, SM5 (DDC key hash: 4528AD5DB7197E0B86B9FE9231DFC3BE117B532E), compiling. 
+[2022.10.04-21.37.45:553][894]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_24 in PCD3D_SM5, Default, SM5 (DDC key hash: 5643C1E3313C966E86BE57C8C658A0397416BA4A), compiling. 
+[2022.10.04-21.37.45:581][894]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_25 in PCD3D_SM5, Default, SM5 (DDC key hash: 15A4085FC0BA5A223AE7E3DD370EADF9507DE54D), compiling. 
+[2022.10.04-21.37.45:591][894]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_26 in PCD3D_SM5, Default, SM5 (DDC key hash: 54C0492CA7348327F5D173B2E2CBC6408AF1BF8F), compiling. 
+[2022.10.04-21.37.45:602][894]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_27 in PCD3D_SM5, Default, SM5 (DDC key hash: 28F8F806F77FE9DB8BEDF620B57101FB193B2F10), compiling. 
+[2022.10.04-21.37.45:614][894]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_28 in PCD3D_SM5, Default, SM5 (DDC key hash: 866671E5081DA2B8E828BCE3D989C02ECB8CDD62), compiling. 
+[2022.10.04-21.37.45:667][894]LogShaderCompilers: Display: ================================================
+[2022.10.04-21.37.45:667][894]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.04-21.37.45:667][894]LogShaderCompilers: Display: Total job queries 1084, among them cache hits 145 (13.38%)
+[2022.10.04-21.37.45:667][894]LogShaderCompilers: Display: Tracking 923 distinct input hashes that result in 537 distinct outputs (58.18%)
+[2022.10.04-21.37.45:667][894]LogShaderCompilers: Display: RAM used: 2.41 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.07%
+[2022.10.04-21.37.45:667][894]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.04-21.37.45:667][894]LogShaderCompilers: Display: Shaders Compiled: 635
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display: Jobs assigned 923, completed 923 (100.00%)
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display: Average time worker was idle: 397.67 s
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display: Time job spent in pending queue: average 19.08 s, longest 79.27 s
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display: Job execution time: average 11.55 s, max 29.76 s
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display: Job life time (pending + execution): average 30.63 s, max 84.47
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 152.77 s
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display: Jobs were issued in 288 batches (only local compilation was used), average 3.20 jobs/batch
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display: Average processing rate: 6.04 jobs/sec
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display: Effective parallelization: 8.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   27 times, average 3.89 sec, max 7.27 sec, min 0.42 sec)
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   10 times, average 3.63 sec, max 5.70 sec, min 2.60 sec)
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display:                       TLightMapDensityVSFDummyLightMapPolicy (compiled   10 times, average 3.51 sec, max 6.33 sec, min 2.51 sec)
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled   10 times, average 3.48 sec, max 5.65 sec, min 2.58 sec)
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   10 times, average 3.42 sec, max 4.04 sec, min 2.46 sec)
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.75% of total time (compiled   27 times, average 3.89 sec, max 7.27 sec, min 0.42 sec)
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.97% of total time (compiled   34 times, average 1.59 sec, max 3.71 sec, min 0.69 sec)
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.75% of total time (compiled   33 times, average 1.54 sec, max 3.52 sec, min 0.73 sec)
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ - 3.62% of total time (compiled   25 times, average 1.97 sec, max 4.41 sec, min 0.74 sec)
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.56% of total time (compiled   26 times, average 1.86 sec, max 4.60 sec, min 0.80 sec)
+[2022.10.04-21.37.45:668][894]LogShaderCompilers: Display: ================================================
+[2022.10.04-21.37.45:685][894]LogViewport: Scene viewport resized to 1561x1218, mode Windowed.
+[2022.10.04-21.38.31:176][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.04-21.38.31:348][330]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.04-21.38.31:656][330]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.38.31:700][330]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentC974CFB649A758D695423D95AF889271.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.38.31:786][330]LogFileHelpers: No new changes to save!
+[2022.10.04-21.38.31:800][330]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.38.31:800][330]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.38.32:188][350]LogViewport: Scene viewport resized to 2035x1218, mode Windowed.
+[2022.10.04-21.39.27:621][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.04-21.39.28:061][168]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.39.28:084][168]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment9F5AC0F649C63B3A0EAD4C9261FE115F.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.39.28:172][168]LogFileHelpers: No new changes to save!
+[2022.10.04-21.39.28:210][168]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.39.28:210][168]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.39.33:674][459]LogViewport: Scene viewport resized to 1561x1218, mode Windowed.
+[2022.10.04-21.40.20:775][ 66]Cmd: TRANSACTION UNDO
+[2022.10.04-21.40.20:775][ 66]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.40.21:413][ 78]Cmd: TRANSACTION UNDO
+[2022.10.04-21.40.21:413][ 78]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.40.21:903][ 98]Cmd: TRANSACTION UNDO
+[2022.10.04-21.40.21:904][ 98]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.40.43:367][266]Cmd: TRANSACTION UNDO
+[2022.10.04-21.40.43:367][266]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.40.47:812][490]LogHttp: Warning: 0000078A7022DC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0052DB0F-41CC-2129-EC6A-29A35504A108%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=94bff1044e5ddd8f7e6ba5967db0a07b%7C32194c9f42414e6eafebc9fb8638362b%7C3ddda218-00f9-40a1-bf5a-3dd1fdd39a19&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.04-21.40.47:812][490]LogHttp: Warning: 0000078A7022DC00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.04-21.40.47:812][490]LogHttp: Warning: 0000078A7022DC00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x789ca0e0a80 [can pipeline])
+[2022.10.04-21.40.47:812][490]LogHttp: Warning: 0000078A7022DC00: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2022.10.04-21.40.47:812][490]LogHttp: Warning: 0000078A7022DC00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.91.141.121) port 443 (#5))
+[2022.10.04-21.40.47:812][490]LogHttp: Warning: 0000078A7022DC00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.04-21.40.47:812][490]LogHttp: Warning: 0000078A7022DC00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.04-21.40.47:812][490]LogHttp: Warning: 0000078A7022DC00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.04-21.40.47:812][490]LogHttp: Warning: 0000078A7022DC00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.04-21.40.47:812][490]LogHttp: Warning: 0000078A7022DC00: libcurl info message cache 7 (Closing connection 5)
+[2022.10.04-21.40.47:813][490]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0052DB0F-41CC-2129-EC6A-29A35504A108%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=94bff1044e5ddd8f7e6ba5967db0a07b%7C32194c9f42414e6eafebc9fb8638362b%7C3ddda218-00f9-40a1-bf5a-3dd1fdd39a19&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.04-21.40.48:886][551]Cmd: TRANSACTION UNDO
+[2022.10.04-21.40.48:886][551]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.41.30:065][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.04-21.41.30:491][234]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.41.30:513][234]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment569ADE154CD0EC14F9D9C6B4F21A8E94.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.41.30:603][234]LogFileHelpers: No new changes to save!
+[2022.10.04-21.41.30:617][234]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.41.30:617][234]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.41.31:739][287]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.10.04-21.41.31:743][287]LogViewport: Scene viewport resized to 2035x1218, mode Windowed.
+[2022.10.04-21.41.44:769][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.10.04-21.41.44:898][869]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CastleAssets/Maps/ExampleCastles.ExampleCastles
+[2022.10.04-21.41.44:898][869]Cmd: MAP LOAD FILE="C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/CastleAssets/Maps/ExampleCastles.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.04-21.41.44:898][869]LightingResults: New page: Lighting Build
+[2022.10.04-21.41.44:898][869]LoadErrors: New page: Loading map: ExampleCastles.umap
+[2022.10.04-21.41.44:904][869]LogWorld: UWorld::CleanupWorld for CastleEnvironment, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-21.41.44:904][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-21.41.44:904][869]MapCheck: New page: Map Check
+[2022.10.04-21.41.44:904][869]LightingResults: New page: Lighting Build
+[2022.10.04-21.41.44:928][869]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.04-21.41.44:943][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: ================================================
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Total job queries 1110, among them cache hits 171 (15.41%)
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Tracking 923 distinct input hashes that result in 537 distinct outputs (58.18%)
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: RAM used: 2.41 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.07%
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Shaders Compiled: 635
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Jobs assigned 923, completed 923 (100.00%)
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Average time worker was idle: 397.67 s
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Time job spent in pending queue: average 19.08 s, longest 79.27 s
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Job execution time: average 11.55 s, max 29.76 s
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Job life time (pending + execution): average 30.63 s, max 84.47
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 152.77 s
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Jobs were issued in 288 batches (only local compilation was used), average 3.20 jobs/batch
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Average processing rate: 6.04 jobs/sec
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Effective parallelization: 8.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   27 times, average 3.89 sec, max 7.27 sec, min 0.42 sec)
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   10 times, average 3.63 sec, max 5.70 sec, min 2.60 sec)
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display:                       TLightMapDensityVSFDummyLightMapPolicy (compiled   10 times, average 3.51 sec, max 6.33 sec, min 2.51 sec)
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled   10 times, average 3.48 sec, max 5.65 sec, min 2.58 sec)
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   10 times, average 3.42 sec, max 4.04 sec, min 2.46 sec)
+[2022.10.04-21.41.44:960][869]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.04-21.41.44:961][869]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.75% of total time (compiled   27 times, average 3.89 sec, max 7.27 sec, min 0.42 sec)
+[2022.10.04-21.41.44:961][869]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.97% of total time (compiled   34 times, average 1.59 sec, max 3.71 sec, min 0.69 sec)
+[2022.10.04-21.41.44:961][869]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.75% of total time (compiled   33 times, average 1.54 sec, max 3.52 sec, min 0.73 sec)
+[2022.10.04-21.41.44:961][869]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ - 3.62% of total time (compiled   25 times, average 1.97 sec, max 4.41 sec, min 0.74 sec)
+[2022.10.04-21.41.44:961][869]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.56% of total time (compiled   26 times, average 1.86 sec, max 4.60 sec, min 0.80 sec)
+[2022.10.04-21.41.44:961][869]LogShaderCompilers: Display: ================================================
+[2022.10.04-21.41.44:966][869]LogWorld: UWorld::CleanupWorld for ExampleCastles, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-21.41.44:967][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-21.41.44:991][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.10.04-21.41.45:005][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.04-21.41.45:058][869]LogAudio: Display: Audio Device (ID: 1) registered with world 'ExampleCastles'.
+[2022.10.04-21.41.45:059][869]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.04-21.41.45:059][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.04-21.41.45:059][869]LogAIModule: Creating AISystem for world ExampleCastles
+[2022.10.04-21.41.45:119][869]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.04-21.41.45:141][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.04-21.41.45:188][869]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.04-21.41.45:188][869]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.203ms to complete.
+[2022.10.04-21.41.45:188][869]LogFileHelpers: Loading map 'ExampleCastles' took 0.290
+[2022.10.04-21.42.02:198][ 34]Cmd: EDIT COPY
+[2022.10.04-21.42.08:693][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.10.04-21.42.09:019][487]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.42.09:019][487]Cmd: MAP LOAD FILE="C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.04-21.42.09:019][487]LightingResults: New page: Lighting Build
+[2022.10.04-21.42.09:019][487]LoadErrors: New page: Loading map: CastleEnvironment.umap
+[2022.10.04-21.42.09:025][487]LogWorld: UWorld::CleanupWorld for ExampleCastles, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-21.42.09:025][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-21.42.09:026][487]MapCheck: New page: Map Check
+[2022.10.04-21.42.09:026][487]LightingResults: New page: Lighting Build
+[2022.10.04-21.42.09:043][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.04-21.42.09:053][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.04-21.42.09:057][487]LogWorld: UWorld::CleanupWorld for CastleEnvironment, bSessionEnded=true, bCleanupResources=true
+[2022.10.04-21.42.09:058][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.04-21.42.09:109][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.04-21.42.09:124][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.04-21.42.09:325][487]LogAudio: Display: Audio Device (ID: 1) registered with world 'CastleEnvironment'.
+[2022.10.04-21.42.09:325][487]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.04-21.42.09:325][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.04-21.42.09:326][487]LogAIModule: Creating AISystem for world CastleEnvironment
+[2022.10.04-21.42.09:552][487]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.04-21.42.09:579][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.04-21.42.09:629][487]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.04-21.42.09:630][487]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.185ms to complete.
+[2022.10.04-21.42.09:630][487]LogFileHelpers: Loading map 'CastleEnvironment' took 0.610
+[2022.10.04-21.42.14:280][674]Cmd: EDIT PASTE
+[2022.10.04-21.43.08:717][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.04-21.43.09:205][449]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.43.09:243][449]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment63833C2844B497851F17818FFC21E64B.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.43.09:330][449]LogFileHelpers: No new changes to save!
+[2022.10.04-21.43.09:349][449]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.43.09:349][449]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.43.32:621][558]LogViewport: Scene viewport resized to 1561x1218, mode Windowed.
+[2022.10.04-21.44.58:180][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.04-21.44.58:691][893]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.44.58:713][893]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentF06F84044E7FEAE1F487709F40F70812.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.44.58:810][893]LogFileHelpers: No new changes to save!
+[2022.10.04-21.44.58:823][893]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.44.58:823][893]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.44.59:959][953]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.10.04-21.44.59:962][953]LogViewport: Scene viewport resized to 2035x1218, mode Windowed.
+[2022.10.04-21.45.26:038][153]Cmd: TRANSACTION UNDO
+[2022.10.04-21.45.26:038][153]LogEditorTransaction: Undo Clicking on Elements
+[2022.10.04-21.45.58:309][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.10.04-21.45.58:794][630]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.45.58:833][630]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentC165365B4A43F0E7093C05B2064E18FB.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.45.58:920][630]LogFileHelpers: No new changes to save!
+[2022.10.04-21.45.58:933][630]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.45.58:933][630]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.45.59:566][663]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_29 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BA8CBA616D74C3954E0D5A61723AB486B110E52), compiling. 
+[2022.10.04-21.45.59:590][663]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_30 in PCD3D_SM5, Default, SM5 (DDC key hash: 4528AD5DB7197E0B86B9FE9231DFC3BE117B532E), compiling. 
+[2022.10.04-21.45.59:599][663]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_31 in PCD3D_SM5, Default, SM5 (DDC key hash: 5643C1E3313C966E86BE57C8C658A0397416BA4A), compiling. 
+[2022.10.04-21.45.59:612][663]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_32 in PCD3D_SM5, Default, SM5 (DDC key hash: 15A4085FC0BA5A223AE7E3DD370EADF9507DE54D), compiling. 
+[2022.10.04-21.45.59:622][663]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_33 in PCD3D_SM5, Default, SM5 (DDC key hash: 54C0492CA7348327F5D173B2E2CBC6408AF1BF8F), compiling. 
+[2022.10.04-21.45.59:631][663]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_34 in PCD3D_SM5, Default, SM5 (DDC key hash: 28F8F806F77FE9DB8BEDF620B57101FB193B2F10), compiling. 
+[2022.10.04-21.45.59:641][663]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_35 in PCD3D_SM5, Default, SM5 (DDC key hash: 866671E5081DA2B8E828BCE3D989C02ECB8CDD62), compiling. 
+[2022.10.04-21.45.59:683][663]LogViewport: Scene viewport resized to 1561x1218, mode Windowed.
+[2022.10.04-21.46.26:317][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.04-21.46.26:492][ 13]LogTexture: Display: Building textures: /Game/Maps/CastleEnvironment.CastleEnvironment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.04-21.46.26:827][ 13]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.46.26:867][ 13]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironmentD09200F9436994F7804F7C895BC5FC95.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.46.26:950][ 13]LogFileHelpers: No new changes to save!
+[2022.10.04-21.46.26:963][ 13]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.46.26:963][ 13]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.47.47:926][414]Cmd: TRANSACTION UNDO
+[2022.10.04-21.47.47:926][414]LogEditorTransaction: Undo Foliage Editing
+[2022.10.04-21.48.12:941][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.04-21.48.13:435][701]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.48.13:477][701]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment82BE14144B2B3DFCC2FFD89B6D478AD7.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.48.13:569][701]LogFileHelpers: No new changes to save!
+[2022.10.04-21.48.13:580][701]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.48.13:580][701]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
+[2022.10.04-21.48.14:274][740]LogViewport: Scene viewport resized to 2035x1218, mode Windowed.
+[2022.10.04-21.49.03:647][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.10.04-21.49.04:141][171]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnvironment
+[2022.10.04-21.49.04:183][171]LogSavePackage: Moving 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Saved/CastleEnvironment7CC05DB44ACCCE3A4BA4B1A3EFEF622C.tmp' to 'C:/Users/wustudent/Documents/GitHub/unreal-tutorial-castle-onwards/CastleEnvironment/Content/Maps/CastleEnvironment.umap'
+[2022.10.04-21.49.04:274][171]LogFileHelpers: No new changes to save!
+[2022.10.04-21.49.04:287][171]AssetCheck: New page: Asset Save: CastleEnvironment
+[2022.10.04-21.49.04:287][171]LogContentValidation: Display: Validating World /Game/Maps/CastleEnvironment.CastleEnvironment
