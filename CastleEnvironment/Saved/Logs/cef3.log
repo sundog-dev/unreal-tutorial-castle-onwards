@@ -38,3 +38,5 @@
 [0928/221005.934:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0928/221005.953:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0928/221005.953:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1003/192249.717:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[1003/192253.757:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
